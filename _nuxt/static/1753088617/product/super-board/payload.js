@@ -1,0 +1,1 @@
+__NUXT_JSONP__("../../../../../product/super-board.html", {data:[{}],fetch:{},mutations:void 0});

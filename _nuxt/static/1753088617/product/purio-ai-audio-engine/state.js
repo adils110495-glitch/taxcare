@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1753088617",layout:"common-transparent",error:a,serverRendered:true,routePath:"\u002Fproduct\u002Fpurio-ai-audio-engine",config:{imgUrl:b,axios:{baseURL:b},_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null,""));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("../../../../../product/in-app-chat.html", {data:[{}],fetch:{},mutations:void 0});

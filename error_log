@@ -1,0 +1,18 @@
+[22-Sep-2025 09:34:20 UTC] PHP Warning:  include(include/header.php): Failed to open stream: No such file or directory in /home1/dkapw83x/public_html/taxcare/index.php on line 2
+[22-Sep-2025 09:34:20 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/dkapw83x/public_html/taxcare/index.php on line 2
+[22-Sep-2025 09:34:20 UTC] PHP Warning:  include(include/footer.php): Failed to open stream: No such file or directory in /home1/dkapw83x/public_html/taxcare/index.php on line 905
+[22-Sep-2025 09:34:20 UTC] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/dkapw83x/public_html/taxcare/index.php on line 905
+[22-Sep-2025 09:34:51 UTC] PHP Warning:  include(include/header.php): Failed to open stream: No such file or directory in /home1/dkapw83x/public_html/taxcare/index.php on line 2
+[22-Sep-2025 09:34:51 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/dkapw83x/public_html/taxcare/index.php on line 2
+[22-Sep-2025 09:34:51 UTC] PHP Warning:  include(include/footer.php): Failed to open stream: No such file or directory in /home1/dkapw83x/public_html/taxcare/index.php on line 905
+[22-Sep-2025 09:34:51 UTC] PHP Warning:  include(): Failed opening 'include/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/dkapw83x/public_html/taxcare/index.php on line 905
+[22-Sep-2025 09:42:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "THEME_URL" in /home1/dkapw83x/public_html/taxcare/include/header.php:2
+Stack trace:
+#0 /home1/dkapw83x/public_html/taxcare/index.php(2): include()
+#1 {main}
+  thrown in /home1/dkapw83x/public_html/taxcare/include/header.php on line 2
+[22-Sep-2025 09:42:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "THEME_URL" in /home1/dkapw83x/public_html/taxcare/include/header.php:2
+Stack trace:
+#0 /home1/dkapw83x/public_html/taxcare/index.php(2): include()
+#1 {main}
+  thrown in /home1/dkapw83x/public_html/taxcare/include/header.php on line 2

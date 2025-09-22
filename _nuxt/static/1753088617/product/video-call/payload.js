@@ -1,0 +1,1 @@
+__NUXT_JSONP__("../../../../../product/video-call.html", {data:[{}],fetch:{},mutations:void 0});

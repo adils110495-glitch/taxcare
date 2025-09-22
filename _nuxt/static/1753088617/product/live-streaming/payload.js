@@ -1,0 +1,1 @@
+__NUXT_JSONP__("../../../../../product/live-streaming.html", {data:[{}],fetch:{},mutations:void 0});

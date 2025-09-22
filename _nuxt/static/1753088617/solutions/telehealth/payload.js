@@ -1,0 +1,1 @@
+__NUXT_JSONP__("../../../../../solutions/telehealth.html", {data:[{}],fetch:{},mutations:void 0});

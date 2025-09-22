@@ -1,0 +1,1 @@
+__NUXT_JSONP__("../../../../../solutions/fitness.html", {data:[{}],fetch:{},mutations:void 0});
