@@ -4,7 +4,7 @@
               <div class="company-ability" data-v-7eb2d12d="">
                 <div data-v-7eb2d12d="">
                   <div class="title" data-v-7eb2d12d=""><img src="_nuxt/img/icon_g2@2x.c3afe7f.png" alt="icon"
-                      data-v-7eb2d12d="" /><span data-v-7eb2d12d="">Leader of Video Platform __ a Service </span></div>
+                      data-v-7eb2d12d="" /><span data-v-7eb2d12d="">India’s Trusted Tax Filing Platform </span></div>
                   <div class="icon-list" data-v-7eb2d12d=""><img src="_nuxt/img/img_g2budge01@2x.4026264.png" alt="icon"
                       class="item" data-v-7eb2d12d="" /><img src="_nuxt/img/img_g2budge02@2x.6c7692b.png" alt="icon"
                       class="item" data-v-7eb2d12d="" /><img src="_nuxt/img/img_g2budge03@2x.43b6902.png" alt="icon"

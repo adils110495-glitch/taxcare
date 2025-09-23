@@ -1,5 +1,5 @@
 <div class="success-example" data-v-639d1285="">
-            <div class="title" data-v-639d1285="">Loved by Developers, Trusted __ Business </div>
+            <div class="title" data-v-639d1285="">Trusted by Salaried, Loved by Traders </div>
             <div class="content" data-v-639d1285="">
               <div class="prev-btn" data-v-639d1285=""></div>
               <div class="next-btn" data-v-639d1285=""></div>

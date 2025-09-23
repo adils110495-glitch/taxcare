@@ -1,23 +1,21 @@
 <div class="design-team" data-v-ee36c2d2="">
             <div class="container" data-v-ee36c2d2="">
               <div class="subtitle" data-v-1f422197="" data-v-ee36c2d2=""><span class="prefix" data-v-1f422197="">&lt;
-                </span> Design for Every ____
+                </span> Simplifying Taxes for Everyone
                 <span class="lastFix" data-v-1f422197="">/_ </span>
               </div>
               <div class="desc" data-v-ee36c2d2="">
-                <p data-v-ee36c2d2="">One-Size Fits None </p>
-                <p data-v-ee36c2d2="">Catering to All Devs ____ SDKs and UIKits </p>
+                <p data-v-ee36c2d2="">Custom Solutions, Every Time </p>
+                <p data-v-ee36c2d2="">Because no two taxpayers are the same, and neither are our solutions </p>
               </div>
               <div class="plans" data-v-ee36c2d2="">
                 <div class="left" data-v-ee36c2d2="">
                   <div class="content" data-v-ee36c2d2=""><img src="_nuxt/img/icon_gray@2x.e46c620.png" alt="icon_gray"
                       id="leftIcon" class="icon" data-v-ee36c2d2="" />
-                    <div id="left-plans-title" class="plans-title" data-v-ee36c2d2="">For Crafters </div>
-                    <div id="left-plans-desc" class="plans-desc" data-v-ee36c2d2="">Fully customized with SDKs </div>
+                    <div id="left-plans-title" class="plans-title" data-v-ee36c2d2="">For Share Traders </div>
+                    <div id="left-plans-desc" class="plans-desc" data-v-ee36c2d2="">Accurate reporting across all segments </div>
                     <div id="left-feature-detail" class="feature-detail" data-v-ee36c2d2="">
-                      Leverage flexible ____ to unlock unparalleled levels __ customization and control over ____
-                      real-time
-                      communication experiences.
+                    Simplify complex trading taxes with ready-to-use solutions — from intraday to F&O, all in one place.
                     </div>
                     <div id="left-feature-list" class="feature-list" data-v-ee36c2d2="">
                       <div class="item" data-v-ee36c2d2="">
@@ -27,19 +25,16 @@
                       </div>
                       <div class="item" data-v-ee36c2d2="">
                         <div class="feature-title" data-v-ee36c2d2="">Boundless UI/UX customization potential </div>
-                        <div class="feature-desc" data-v-ee36c2d2="">Craft singularly impressive UI ___________ tailored
-                          to your product's ___________ look and brand identity, ____________ by API limitations. </div>
+                        <div class="feature-desc" data-v-ee36c2d2="">File your returns in just 10 minutes with expert-assisted, error-free processing.		Leverage expert strategies to optimize taxes, set off losses, and carry forward unutilized losses for future benefits. </div>
                       </div>
                       <div class="item" data-v-ee36c2d2="">
-                        <div class="feature-title" data-v-ee36c2d2="">Low-level control and adaptability </div>
-                        <div class="feature-desc" data-v-ee36c2d2="">Gain unrestricted low-level API ______ to tailor
-                          fully customized ___________ for your unique product, ____ seamless extensibility as needs
-                          ______. </div>
+                        <div class="feature-title" data-v-ee36c2d2="">tress-free compliance & audit readiness </div>
+                        <div class="feature-desc" data-v-ee36c2d2="">Stay worry-free with error-free filings, proper documentation, and expert support to handle any tax notice or audit query with confidence.</div>
                       </div>
                     </div>
                     <div class="btn" data-v-ee36c2d2=""><img
                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHNSURBVHgB7davTgNBEAbwmestveVfAjUIEJgiMFiwWCxoNM/BMxCeAYMAg8CCQWCpQUByCtM23XDd7jIbaNq0peZmj5DMzzS5Ju1+m292D0AIIYQQQoi/glCRLFs69B6OEMEgJrfGdB6AQQIV0Hr5hPbqBBEX6bMB4I+BSQpRrTS0dqe0883xp957A0wiBtCbWebOvA87PkKL7yVJcgNMoszAqO+hMuP8B6K7MMa8AxP2AKHvtPjDyee08y/r66uXeZ73gBFjgGHfsTn1Jwj3xnSvIAKmAKHvydn3CTPy0/crOjIfIZLSAbReOXDOHVfR91lK3wPeu6lhDX1fW1s9j734oHQA6ree+tEEMM+7GipQg5KUytqIngYX1egpNtLU71mbPQMUbJfWLKUDWFu8a509Oef3aOFjVcJFpWC/Xle23++/QiSlAwRFURgK8Uzd35o4iRQdq7sLCylSiBZEwBIgCCGs7T/WavUwFzvj34W7QSm1Q5VqcVeKLcDQYFC00lTTK7PbrmIu2AME1n6+zpsLpeodmp03YBAlQDBvLqhiTQpwBwyiBQh+nwvfpuf3wCBqgKHhXAC4DXpTpYsuuQ7HLwghhBBCCPGvfQEFMcsxEM4BcAAAAABJRU5ErkJggg=="
-                        alt="icon_code_left_black" class="prefix" data-v-ee36c2d2="" />Start building <img
+                        alt="icon_code_left_black" class="prefix" data-v-ee36c2d2="" />Start Filing <img
                         src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAM6SURBVHgB7Zi/c9MwFMefHMux0qZ3bVY6wJAODHRt167pwl27sDCz8i+wsnKMsGZhgLWMdIA7ypguHcpdpjDgOk5ix+KppUT2JbJkO17wZ6tc/fi+9yR9FYCampqamv8ZAgVhrH0Yx/EJIRAQYn0KAu8LVIgFBeE87hFCWhiLDv51AhVTSAClG/t3C7+Dcx5AxRQS0GjAk1TTJVRMEQGibA7lBs6jSutfkFsAYywVfT6aTqeVZ8CG3FiJ6ONGvlD9t3xaYemd+b5/BiWQMwPtDuekK7fYNlEuSD6t5nNy2mq1jqEEcglgLOomW+Jrz/NGqj4YeZboEVs9xjZeimBAAXIJwOgfQWJxDY1ysPqE8HFqnK7rxoVENMCYdgfL5ancQinpz2Yz5R0QRbOfjLnf4piLu6O1+EJalMJBs0mjMAyvwBBjAY7jHGM5PPo3PeED37/5rNNXiEQRF3jh7coXIEIxG48dxyYowugkMxZAKX0mR1D4HxFd3f5CRBSF541GU+yLPfmbKCkcfy+KXBQx07rVjQQ0m+0uTpqo/8mk/R7gJgRD5vPZpW0zNIDxQwwDXXwhWKJ8H0Vc6IgwEoDR6eEEu4sWfh5Fv75CTqJoeqXaF5Q2PczutWoM01MokfL5HL5DQcTxS6n1GvdSovY5F1Yl291qC0g7T2EdwtD/ASXgecvbddyttpVYn/NkD/AueIEbOHEX4OLHlmV9zOqtK2AtztN1N46wVHrJ+r8dfWRZ8Zsg8DNPNy0BwnniRIkJijpPxjZPccwjknrUYuQHOztbb4fD4VhnHM0MmDlPNe0OY/FzXHw3/QXFnE0mfn849EEXDQHCeXIj57kaZb338QeBczAkU4BwnpzL14VwnuMRGHL/HihS78vIPEbzOc9l49y/B+Q2Ptje3noVBEGuxQsyMiBsLt9NdLDzHZ/iPSAfBHnqfRnKDDgOT0WfD7IeLoqp+qJcRL1jJt4FwU0fSkCZAcu69Shyi/Emu+fvBs3dfxUrMyCcZ8qz4yI2S7EOZbJSANrcg2QLx+jpXS5VotoDpTvPdaDIgPwrQnnOs2xWPmgodX+LI1QcfXhLfjB5NtbU1NTU1FTFH2hjYBup05/mAAAAAElFTkSuQmCC"
                         alt="icon_code_right_black" class="lastFix" data-v-ee36c2d2="" /></div>
                   </div> <img src="_nuxt/img/design_left.405f7f3.png" alt="design_left" class="banner"
