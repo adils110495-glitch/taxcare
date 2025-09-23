@@ -24,45 +24,45 @@
             <div class="title error" data-v-5413d25a="">Products</div>
             <div class="m-list-wrapper" style="display: none" data-v-5413d25a="">
               <div class="list" data-v-5413d25a="">
-                <a href="/product/itr-filing.html" class="mobile-item" data-v-5413d25a="">Income Tax Return
+                <a href="<?= THEME_URL?>product/itr-filing" class="mobile-item" data-v-5413d25a="">Income Tax Return
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/product/tds-filing.html" class="mobile-item" data-v-5413d25a="">TDS Return
+                <a href="<?= THEME_URL?>product/tds-filing" class="mobile-item" data-v-5413d25a="">TDS Return
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/product/reply-itd-notice.html" class="mobile-item" data-v-5413d25a="">Income Tax Notice
+                <a href="<?= THEME_URL?>product/reply-itd-notice" class="mobile-item" data-v-5413d25a="">Income Tax Notice
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/product/personal-expert.html" class="mobile-item" data-v-5413d25a="">Personal Tax Expert
+                <a href="<?= THEME_URL?>product/personal-expert" class="mobile-item" data-v-5413d25a="">Personal Tax Expert
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/taxcare-guide.html" class="mobile-item" data-v-5413d25a="">Taxcare Guide
+                <a href="/taxcare-guide" class="mobile-item" data-v-5413d25a="">Taxcare Guide
                 </a>
               </div>
             </div>
             <div class="list-wrapper" data-v-5413d25a="">
               <div class="list" data-v-5413d25a="">
-                <a href="/product/itr-filing.html" class="item" data-v-5413d25a="">Income Tax Return
+                <a href="<?= THEME_URL?>product/itr-filing" class="item" data-v-5413d25a="">Income Tax Return
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/product/tds-filing.html" class="item" data-v-5413d25a="">TDS Return
+                <a href="<?= THEME_URL?>product/tds-filing" class="item" data-v-5413d25a="">TDS Return
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/product/reply-itd-notice.html" class="item" data-v-5413d25a="">Income Tax Notice
+                <a href="<?= THEME_URL?>product/reply-itd-notice" class="item" data-v-5413d25a="">Income Tax Notice
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/product/personal-expert.html" class="item" data-v-5413d25a="">Personal Tax Expert
+                <a href="<?= THEME_URL?>product/personal-expert" class="item" data-v-5413d25a="">Personal Tax Expert
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/taxcare-guide.html" class="item" data-v-5413d25a="">Taxcare Guide
+                <a href="/taxcare-guide" class="item" data-v-5413d25a="">Taxcare Guide
                 </a>
               </div>
             </div>
@@ -71,43 +71,43 @@
             <div class="title error" data-v-5413d25a="">Services</div>
             <div class="m-list-wrapper" style="display: none" data-v-5413d25a="">
               <div class="list" data-v-5413d25a="">
-                <a href="/product/itd-portal.html" class="mobile-item" data-v-5413d25a="">Income Tax Portal
+                <a href="<?= THEME_URL?>product/itd-portal" class="mobile-item" data-v-5413d25a="">Income Tax Portal
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/demo-apps.html" class="mobile-item" data-v-5413d25a="">Integrations
+                <a href="/demo-apps" class="mobile-item" data-v-5413d25a="">Integrations
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/help.html" class="mobile-item" data-v-5413d25a="">Help
+                <a href="/help" class="mobile-item" data-v-5413d25a="">Help
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/tools.html" class="mobile-item" data-v-5413d25a="">Tools
+                <a href="/tools" class="mobile-item" data-v-5413d25a="">Tools
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/pricing.html" class="mobile-item" data-v-5413d25a="">Pricing
+                <a href="/pricing" class="mobile-item" data-v-5413d25a="">Pricing
                 </a>
               </div>
             </div>
             <div class="list-wrapper" data-v-5413d25a="">
               <div class="list" data-v-5413d25a="">
-                <a href="/product/itd-portal.html" class="item" data-v-5413d25a="">Income Tax Portal
+                <a href="<?= THEME_URL?>product/itd-portal" class="item" data-v-5413d25a="">Income Tax Portal
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/demo-apps.html" class="item" data-v-5413d25a="">Integrations
+                <a href="<?= THEME_URL?>integrations" class="item" data-v-5413d25a="">Integrations
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/help.html" class="item" data-v-5413d25a="">Help </a>
+                <a href="<?= THEME_URL?>help" class="item" data-v-5413d25a="">Help </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/tools.html" class="item" data-v-5413d25a="">Tools </a>
+                <a href="<?= THEME_URL?>/tools" class="item" data-v-5413d25a="">Tools </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/pricing.html" class="item" data-v-5413d25a="">Pricing
+                <a href="<?= THEME_URL?>/pricing" class="item" data-v-5413d25a="">Pricing
                 </a>
               </div>
             </div>
@@ -117,37 +117,37 @@
             <div class="title error" data-v-5413d25a="">Company</div>
             <div class="m-list-wrapper" style="display: none" data-v-5413d25a="">
               <div class="list" data-v-5413d25a="">
-                <a href="/meta/about-us.html" class="mobile-item" data-v-5413d25a="">About us
+                <a href="<?= THEME_URL?>meta/about-us" class="mobile-item" data-v-5413d25a="">About us
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/meta/privacy-policy.html" class="mobile-item" data-v-5413d25a="">Policy
+                <a href="<?= THEME_URL?>meta/privacy-policy" class="mobile-item" data-v-5413d25a="">Policy
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/meta/contact-n-support.html" class="mobile-item" data-v-5413d25a="">Contact Us
+                <a href="<?= THEME_URL?>meta/contact-n-support" class="mobile-item" data-v-5413d25a="">Contact Us
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/sitemap.html" class="mobile-item" data-v-5413d25a="">Site Map
+                <a href="<?= THEME_URL?>sitemap" class="mobile-item" data-v-5413d25a="">Site Map
                 </a>
               </div>
             </div>
             <div class="list-wrapper" data-v-5413d25a="">
               <div class="list" data-v-5413d25a="">
-                <a href="/meta/about-us.html" class="item" data-v-5413d25a="">About us
+                <a href="<?= THEME_URL?>meta/about-us" class="item" data-v-5413d25a="">About us
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/meta/privacy-policy.html" class="item" data-v-5413d25a="">Policy
+                <a href="<?= THEME_URL?>meta/privacy-policy" class="item" data-v-5413d25a="">Policy
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/meta/contact-n-support.html" class="item" data-v-5413d25a="">Contact Us
+                <a href="<?= THEME_URL?>meta/contact-n-support" class="item" data-v-5413d25a="">Contact Us
                 </a>
               </div>
               <div class="list" data-v-5413d25a="">
-                <a href="/sitemap.html" class="item" data-v-5413d25a="">Site Map
+                <a href="<?= THEME_URL?>sitemap" class="item" data-v-5413d25a="">Site Map
                 </a>
               </div>
             </div>
@@ -159,13 +159,13 @@
         <span class="beian" data-v-00f8a326="">© 2017-2026 M/s Overseas Apps Private Limited. All Rights Reserved.
         </span>
         <div class="cookie-about" data-v-00f8a326="">
-          <a href="/meta/privacy-policy.html" class="item" data-v-00f8a326="">
+          <a href="<?= THEME_URL?>meta/privacy-policy" class="item" data-v-00f8a326="">
             Privacy policy
           </a>
-          <a href="/cookie-policy.html" class="item" data-v-00f8a326="">
+          <a href="<?= THEME_URL?>cookie-policy" class="item" data-v-00f8a326="">
             Cookie notice
           </a>
-          <a href="/meta/terms-n-conditions.html" class="item" data-v-00f8a326="">
+          <a href="<?= THEME_URL?>meta/terms-n-conditions" class="item" data-v-00f8a326="">
             Terms of service
           </a>
         </div>
@@ -351,9 +351,9 @@
                   </div>
                 </div>
                 <div class="dialog-footer" data-v-08849c5b="">
-                  <div class="button button-text" data-v-08849c5b=""><a href="cookie-policy.html"
+                  <div class="button button-text" data-v-08849c5b=""><a href="cookie-policy"
                       data-v-08849c5b="">Cookies Policy </a></div>
-                  <div class="button button-text" data-v-08849c5b=""><a href="privacy-policy.html"
+                  <div class="button button-text" data-v-08849c5b=""><a href="privacy-policy"
                       data-v-08849c5b="">Privacy Policy </a></div>
                   <div class="button button-click" data-v-08849c5b=""><span data-v-08849c5b="">Save and close </span>
                   </div>

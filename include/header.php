@@ -1,6 +1,28 @@
 <?php
-define('THEME_URL', 'https://dka.pw/taxcare/');
+define('THEME_URL', 'https://dka.pw/taxcare/'); 
 define('THEME_PATH', dirname(__DIR__) . "/");
+
+$path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+$filename = pathinfo(basename($path), PATHINFO_FILENAME);
+$file_array = [
+    'partners' => 'partners',
+    'tools' => 'partners',
+    'itr-filing' => 'product',
+    'tds-filing' => 'product',
+    'reply-itd-notice' => 'product',
+    'personal-expert' => 'product',
+    'itd-portal' => 'itd-portal',
+    'integrations' => 'integrations',
+    'tools' => 'partners',
+    'pricing' => 'pricing',
+    'contact-n-support' => 'contact-n-support'
+];
+$filename = $file_array[$filename]??'404';
+// Define file system path
+ $css_file_path = THEME_PATH."css/" . $filename . ".css";
+
+// Define URL path for browser
+ $css_file_url  = THEME_URL ."css/". $filename . ".css";
 ?>
 
 <!doctype html>
@@ -23,18 +45,22 @@ define('THEME_PATH', dirname(__DIR__) . "/");
   <meta data-n-head="ssr" data-hid="keywords" name="keywords"
     content="video api, chat api, video conferencing api, voice api, live streaming sdk" />
   <title>Voice, Video & Chat ____ for Real-Time Interaction | _________ </title>
-  <link data-n-head="ssr" rel="icon" type="image/x-icon" href="favicon.ico" />
+  <link data-n-head="ssr" rel="icon" type="image/x-icon" href="https://taxcare.co.in/img/favicon.ico" />
   <link data-n-head="ssr" rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72-precomposed.png" />
   <link data-n-head="ssr" rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57-precomposed.png" />
   <link data-n-head="ssr" rel="apple-touch-icon-precomposed" sizes="144x144"
     href="apple-touch-icon-144-precomposed.png" />
   <link data-n-head="ssr" rel="apple-touch-icon-precomposed" sizes="114x114"
     href="apple-touch-icon-114-precomposed.png" />
-  <link data-n-head="ssr" rel="canonical" href="index.html" />
+  <link data-n-head="ssr" rel="canonical" href="index" />
   
   <!-- Swiper CSS/JS (v9 is fine; v8 also ok). Keep CSS in the page. -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css">
+  <link rel="stylesheet" href="<?php echo THEME_URL?>css/animate.css">
   <link rel="stylesheet" href="<?php echo THEME_URL?>css/taxcare.css">
+  <?php if( file_exists($css_file_path)):?>
+    <link rel="stylesheet" href="<?php echo $css_file_url?>">
+  <?php endif;?>
   <link rel="stylesheet" href="<?php echo THEME_URL?>css/override.css">
  
 
@@ -72,10 +98,17 @@ define('THEME_PATH', dirname(__DIR__) . "/");
             <div class="close-btn" data-v-13f320ba=""></div>
           </div>
           <div class="container header-container" data-v-73491d32="">
-            <div class="menu-warp" data-v-73491d32=""><img src="<?= THEME_URL?>/img/taxcare.png"
-                alt="taxcare" class="header-logo logo" data-v-73491d32="" /> <img
+            <div class="menu-warp" data-v-73491d32="">
+                <a href="<?= THEME_URL?>">
+                    <img src="<?= THEME_URL?>/img/taxcare.png"
+                alt="taxcare" class="header-logo logo" data-v-73491d32="" /> 
+                </a>
+                <a href="<?= THEME_URL?>">
+                    
+                <img
                 src="<?= THEME_URL?>/img/taxcare.png" alt="taxcare" class="header-logo logo header-logo-m"
                 data-v-73491d32="" />
+                </a>
               <div class="nav-wrap" data-v-11d3814f="" data-v-73491d32="">
                 <ul class="nav-wrap" data-v-11d3814f="">
                   <li class="nav-item-wrap" data-v-11d3814f="">
@@ -90,7 +123,7 @@ define('THEME_PATH', dirname(__DIR__) . "/");
                   <p class="solutions-title" data-v-6ccd7fd0="">BY INDUSTRY</p>
                   <div class="item-solutions" data-v-6ccd7fd0="">
                     <div class="solutions-item-title" data-v-6ccd7fd0="">
-                      <a href="/product/itr-filing.html" class="solutions-item-title" data-v-6ccd7fd0="">
+                      <a href="<?= THEME_URL?>product/itr-filing" class="solutions-item-title" data-v-6ccd7fd0="">
                         Income Tax Return
                       </a>
                       <span class="newTag" data-v-6ccd7fd0=""></span>
@@ -99,7 +132,7 @@ define('THEME_PATH', dirname(__DIR__) . "/");
                   </div>
                   <div class="item-solutions" data-v-6ccd7fd0="">
                     <div class="solutions-item-title" data-v-6ccd7fd0="">
-                      <a href="/product/tds-filing.html" class="solutions-item-title" data-v-6ccd7fd0="">
+                      <a href="<?= THEME_URL?>product/tds-filing" class="solutions-item-title" data-v-6ccd7fd0="">
                         TDS Return
                       </a>
                     </div>
@@ -107,7 +140,7 @@ define('THEME_PATH', dirname(__DIR__) . "/");
                   </div>
                   <div class="item-solutions" data-v-6ccd7fd0="">
                     <div class="solutions-item-title" data-v-6ccd7fd0="">
-                      <a href="/product/reply-itd-notice.html" class="solutions-item-title" data-v-6ccd7fd0="">
+                      <a href="<?= THEME_URL?>product/reply-itd-notice" class="solutions-item-title" data-v-6ccd7fd0="">
                         Income Tax Notice
                       </a>
                     </div>
@@ -115,7 +148,7 @@ define('THEME_PATH', dirname(__DIR__) . "/");
                   </div>
                   <div class="item-solutions" data-v-6ccd7fd0="">
                     <div class="solutions-item-title" data-v-6ccd7fd0="">
-                      <a href="/product/personal-expert.html" class="solutions-item-title" data-v-6ccd7fd0="">
+                      <a href="<?= THEME_URL?>product/personal-expert" class="solutions-item-title" data-v-6ccd7fd0="">
                         Personal Tax Expert
                       </a>
                     </div>
@@ -157,7 +190,7 @@ define('THEME_PATH', dirname(__DIR__) . "/");
                       <p class="menu-title" data-v-cdbbeaee="">GET STARTED</p>
                       <div class="menu-data" data-v-cdbbeaee="">
                         <div data-v-cdbbeaee="">
-                          <a href="/product/itd-portal.html" class="solutions-item-title" data-v-6ccd7fd0="">
+                          <a href="<?= THEME_URL?>product/itd-portal" class="solutions-item-title" data-v-6ccd7fd0="">
                             Income Tax Portal
                           </a>
                         </div>
@@ -165,7 +198,7 @@ define('THEME_PATH', dirname(__DIR__) . "/");
                       </div>
                       <div class="menu-data" data-v-cdbbeaee="">
                         <div data-v-cdbbeaee="">
-                          <a href="/integrations.html" class="solutions-item-title" data-v-6ccd7fd0="">
+                          <a href="<?= THEME_URL?>integrations" class="solutions-item-title" data-v-6ccd7fd0="">
                             Integrations
                           </a>
                         </div>
@@ -173,7 +206,7 @@ define('THEME_PATH', dirname(__DIR__) . "/");
                       </div>
                       <div class="menu-data" data-v-cdbbeaee="">
                         <div data-v-cdbbeaee="">
-                          <a href="/tools.html" class="solutions-item-title" data-v-6ccd7fd0="">
+                          <a href="<?= THEME_URL?>/tools" class="solutions-item-title" data-v-6ccd7fd0="">
                             Tools
                           </a>
                         </div>
@@ -187,7 +220,11 @@ define('THEME_PATH', dirname(__DIR__) . "/");
                   </li>
                   <li class="nav-item-wrap" data-v-11d3814f="">
                     <div class="nav-title-wrap" data-v-11d3814f="">
-                      <div class="nav-title" data-v-11d3814f="">Pricing </div> 
+                      <div class="nav-title" data-v-11d3814f="">
+                          <a href="<?= THEME_URL?>pricing" class="solutions-item-title" data-v-6ccd7fd0="">
+                          Pricing 
+                          </a>
+                    </div> 
                     </div>
                   </li>
                   <li class="nav-item-wrap" data-v-11d3814f="">
@@ -213,7 +250,7 @@ define('THEME_PATH', dirname(__DIR__) . "/");
                       <p class="menu-title" data-v-cdbbeaee="">GET STARTED</p>
                       <div class="menu-data" data-v-cdbbeaee="">
                         <div data-v-cdbbeaee="">
-                          <a href="/meta/about-us.html" class="solutions-item-title" data-v-6ccd7fd0="">
+                          <a href="<?= THEME_URL?>meta/about-us" class="solutions-item-title" data-v-6ccd7fd0="">
                             About Us
                           </a>
                         </div>
@@ -221,7 +258,7 @@ define('THEME_PATH', dirname(__DIR__) . "/");
                       </div>
                       <div class="menu-data" data-v-cdbbeaee="">
                         <div data-v-cdbbeaee="">
-                          <a href="/partners.html" class="solutions-item-title" data-v-6ccd7fd0="">
+                          <a href="<?= THEME_URL?>partners" class="solutions-item-title" data-v-6ccd7fd0="">
                             Affiliate Programme
                           </a>
                         </div>
@@ -229,7 +266,7 @@ define('THEME_PATH', dirname(__DIR__) . "/");
                       </div>
                       <div class="menu-data" data-v-cdbbeaee="">
                         <div data-v-cdbbeaee="">
-                          <a href="/help.html" class="solutions-item-title" data-v-6ccd7fd0="">
+                          <a href="<?= THEME_URL?>help" class="solutions-item-title" data-v-6ccd7fd0="">
                             Help
                           </a>
                         </div>
@@ -237,7 +274,7 @@ define('THEME_PATH', dirname(__DIR__) . "/");
                       </div>
                       <div class="menu-data" data-v-cdbbeaee="">
                         <div data-v-cdbbeaee="">
-                          <a href="/meta/contact-n-support.html" class="solutions-item-title" data-v-6ccd7fd0="">
+                          <a href="<?= THEME_URL?>meta/contact-n-support" class="solutions-item-title" data-v-6ccd7fd0="">
                             Contact Us
                           </a>
                         </div>
@@ -246,7 +283,7 @@ define('THEME_PATH', dirname(__DIR__) . "/");
                       <!-- <div class="menu-data" data-v-cdbbeaee="">
                         <div data-v-cdbbeaee="">
                           <a
-                            href="sitemap.html"
+                            href="sitemap"
                             class="solutions-item-title"
                             data-v-6ccd7fd0=""
                           >
@@ -264,12 +301,16 @@ define('THEME_PATH', dirname(__DIR__) . "/");
                 </ul>
               </div>
             </div>
-            <div class="header-btns" data-v-73491d32="">
-              <div class="login-btn" data-v-73491d32="">Login </div>
-              <div class="line" data-v-73491d32=""></div>
-              <div class="sign-up" data-v-73491d32="">Sign up </div>
-              <div class="talk-to-us-btn" data-v-73491d32="">Talk to us </div> <!---->
-            </div>
+            <div class="header-btns" data-v-55414225="">
+      <a href="https://apps.apple.com/app/tax-care-income-tax-return/id1616527308?platform=iphone">
+        <img src="https://taxcare.co.in/img/download-on-the-app-store-apple-logo-svgrepo-com.svg" alt="App Store" width="110" height="100%">
+      </a>
+      <div class="line" data-v-55414225=""></div>
+
+      <a href="https://play.google.com/store/apps/details?id=com.taxcare.app&amp;pli=1">
+        <img src="https://taxcare.co.in/img/google-play-badge-logo-svgrepo-com.svg" alt="Play Store" width="110" height="100%">
+      </a>
+    </div>
             <div class="talk-to-us-btn-mobile" data-v-73491d32="">Talk to us </div> <img alt="menu"
               src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACXSURBVHgB7daxDYAgEIXhQxbQDRzBjZzDLd3A2ko2QEikOZFcc4fF+xIjBQmE4s8RAUAn3vvVOXelLyp/RzpuLee6rws9G2eyEWKMU14MjU0j2Qll4RubzvRKC+lfLL/Olv47AcCfKJZbVmpOudyiUnOagRSVmtMqN0oN0IfhDC0rtfEMzVVLbTlDc9VSW83Qr8ug1ACWbtHMdZojm+HUAAAAAElFTkSuQmCC"
               loading="lazy" class="header-btns-mobile rotate-180" data-v-73491d32="" /> <!----> <!---->

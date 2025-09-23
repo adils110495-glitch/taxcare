@@ -1,0 +1,14 @@
+RewriteEngine On
+
+# 1) If the request is for an existing file or directory, serve it
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# 2) If the same path plus .php exists, internally rewrite to it
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^ %{REQUEST_URI}.php [L]
+
+# 3) Otherwise show custom 404 (but don't rewrite 404.php itself)
+RewriteCond %{REQUEST_URI} !404\.php$
+RewriteRule ^ /taxcare/404.php [L]
