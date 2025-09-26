@@ -10,7 +10,7 @@
                       <p class="text" data-v-0bb9f87f=""> Smart tax solutions for ITR filing, TDS returns, and expert consultations — anytime, anywhere. </p>
                       <div class="start-building btn" data-v-0bb9f87f=" "> Simplify Your Taxes Now </div>
                     </div> <img src="_nuxt/img/img_index_banner.03ccd64.png" alt="png" class="banner-img"
-                      data-v-0bb9f87f=" " />
+                      data-v-0bb9f87f="" />
                   </div>
                 </div>
               </div>
