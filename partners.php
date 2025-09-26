@@ -6,12 +6,12 @@ include('include/header.php');
                             <div class="container" data-v-ec17b9b2>
                                 <div class="left-content" data-v-ec17b9b2>
                                     <h1 data-v-ec17b9b2>
-                                        <p class="small-title" data-v-ec17b9b2>Partner Program</p>
-                                        <p class="title" data-v-ec17b9b2>Partner with ZEGOCLOUD to achieve more</p>
+                                        <p class="small-title" data-v-ec17b9b2>Affiliate Program</p>
+                                        <p class="title" data-v-ec17b9b2>From network to net worth — partner with Taxcare.</p>
                                     </h1>
-                                    <p class="desc" data-v-ec17b9b2>Become a ZEGOCLOUD partner and take advantage of our industry-leading real-time engagement capabilities, expertise, and resources to boost your revenue and growth potential.</p>
+                                    <p class="desc" data-v-ec17b9b2>Attention creators, influencers, and publishers — partner with our affiliate program and turn your reach into revenue.</p>
                                     <div class="btn-con" data-v-ec17b9b2>
-                                        <span class="btn-build" data-v-ec17b9b2>Become a partner</span>
+                                        <span class="btn-build" data-v-ec17b9b2>Get Started</span>
                                         <!---->
                                     </div>
                                 </div>
@@ -22,51 +22,51 @@ include('include/header.php');
                             </div>
                         </div>
                         <div class="line" data-v-459bdfea></div>
-                        <h2 class="program-title" data-v-459bdfea>ZEGOCLOUD Partner Program</h2>
-                        <div class="program-desc" data-v-459bdfea>Our partner program offers development service companies, software vendors, and resellers exclusive access to our
-    technical, sales and marketing resources.
+                        <h2 class="program-title" data-v-459bdfea>How it works !.</h2>
+                        <div class="program-desc" data-v-459bdfea>Get paid for every successful referral. It’s simple: share Taxcare, help others, and grow your income
   </div>
                         <div class="list-wrap container" data-v-6a3decfa data-v-459bdfea>
                             <div class="card-wrap" data-v-6a3decfa>
                                 <img src="/taxcare/_nuxt/img/program_1.54d9b39.png" alt="icon-card" class="img" data-v-6a3decfa>
                                 <div class="title-pc" data-v-6a3decfa>
-                                    <span data-v-6a3decfa>Build together with our team of experts</span>
+                                    <span data-v-6a3decfa>Apply</span>
                                     <!---->
                                 </div>
                                 <div class="title-mb" data-v-6a3decfa>
-                                    <span data-v-6a3decfa>Build together with our team of experts </span>
+                                    <span data-v-6a3decfa>Apply</span>
                                 </div>
-                                <p class="desc" data-v-6a3decfa>By joining our partner program, you will receive comprehensive technical support, training, and solution consultations provided by our team of experts, so you too can become an expert and provide better support to your customers.</p>
+                          <br>
+                                <p class="desc" data-v-6a3decfa>Sign up easily using the form below.</p>
                                 <!---->
                             </div>
                             <div class="card-wrap" data-v-6a3decfa>
                                 <img src="/taxcare/_nuxt/img/program_2.c508ca8.png" alt="icon-card" class="img" data-v-6a3decfa>
                                 <div class="title-pc" data-v-6a3decfa>
-                                    <span data-v-6a3decfa>Unlock new opportunities</span>
+                                    <span data-v-6a3decfa>Connect</span>
                                     <span class="title2" data-v-6a3decfa></span>
                                 </div>
                                 <div class="title-mb" data-v-6a3decfa>
-                                    <span data-v-6a3decfa>Unlock new opportunities  </span>
+                                    <span data-v-6a3decfa>Connect</span>
                                 </div>
-                                <p class="desc" data-v-6a3decfa>We will share our knowledge and expertise in new technologies and new use case solutions to help you provide better and more innovative solutions to your customers and capture new market opportunities.</p>
+                                <p class="desc" data-v-6a3decfa>Share your unique promo code within your network.</p>
                                 <!---->
                             </div>
                             <div class="card-wrap" data-v-6a3decfa>
                                 <img src="/taxcare/_nuxt/img/program_3.bdb5e6b.png" alt="icon-card" class="img" data-v-6a3decfa>
                                 <div class="title-pc" data-v-6a3decfa>
-                                    <span data-v-6a3decfa>Go to market resources</span>
+                                    <span data-v-6a3decfa>Earn</span>
                                     <span class="title2" data-v-6a3decfa></span>
                                 </div>
                                 <div class="title-mb" data-v-6a3decfa>
-                                    <span data-v-6a3decfa>Go to market resources  </span>
+                                    <span data-v-6a3decfa>Earn</span>
                                 </div>
-                                <p class="desc" data-v-6a3decfa>As our partner, you will also be invited to join or cohost our marketing events, such as online or offline industry conferences and meetups.</p>
+                                <p class="desc" data-v-6a3decfa>Get rewarded for every successful referral you make.</p>
                                 <!---->
                             </div>
                         </div>
                         <div id="become-a-partner" class="partner-card" data-v-370324f1 data-v-459bdfea>
                             <div class="container" data-v-370324f1>
-                                <h2 class="title" data-v-370324f1>Become a partner</h2>
+                                <h2 class="title" data-v-370324f1>Meet our affiliates</h2>
                                 <div class="card-scroll" data-v-370324f1>
                                     <div class="card-wrap" data-v-370324f1>
                                         <div class="card-item" data-v-370324f1>
@@ -93,7 +93,7 @@ include('include/header.php');
                                 <div class="talk-container" data-v-11d3275c>
                                     <form target="iframe" class="el-form official-form-07-08" data-v-11d3275c>
                                         <div class="el-form-item is-required" data-v-11d3275c>
-                                            <label for="partnership" class="el-form-item__label">Which type of partnership are you interested in?</label>
+                                            <label for="partnership" class="el-form-item__label">New Influence Pic at last</label>
                                             <div class="el-form-item__content">
                                                 <div class="el-select" data-v-11d3275c>
                                                     <!---->
@@ -147,7 +147,7 @@ include('include/header.php');
                                         </div>
                                         <div class="tow-items-container name-items" data-v-11d3275c>
                                             <div class="el-form-item is-required" data-v-11d3275c>
-                                                <label for="firstName" class="el-form-item__label">First name</label>
+                                                <label for="firstName" class="el-form-item__label">Name Enter your name</label>
                                                 <div class="el-form-item__content">
                                                     <div class="el-input" data-v-11d3275c>
                                                         <!---->
@@ -290,7 +290,7 @@ include('include/header.php');
                                             </div>
                                         </div>
                                         <div class="el-form-item is-required" data-v-11d3275c>
-                                            <label for="emailAddress" class="el-form-item__label">Work email</label>
+                                            <label for="emailAddress" class="el-form-item__label">Email  Enter your mail Id</label>
                                             <div class="el-form-item__content">
                                                 <div class="el-input" data-v-11d3275c>
                                                     <!---->
@@ -305,7 +305,7 @@ include('include/header.php');
                                         </div>
                                         <div class="Phone-number" data-v-11d3275c>
                                             <div class="el-form-item error-right is-required" data-v-11d3275c>
-                                                <label for="primaryContactNumber" class="el-form-item__label">Phone number</label>
+                                                <label for="primaryContactNumber" class="el-form-item__label">Enter you WhatsApp number</label>
                                                 <div class="el-form-item__content">
                                                     <div class="contact-number-row" data-v-11d3275c>
                                                         <div class="country-code" data-v-3ec0cd6d data-v-11d3275c>
@@ -330,7 +330,7 @@ include('include/header.php');
                                             </div>
                                         </div>
                                         <div class="el-form-item contact-items is-required" data-v-11d3275c>
-                                            <label for="descriptionOneself" class="el-form-item__label">What's the best description of you?</label>
+                                            <label for="descriptionOneself" class="el-form-item__label">Tell us more Please provide more information</label>
                                             <div class="el-form-item__content">
                                                 <div class="el-select" data-v-11d3275c>
                                                     <!---->
@@ -403,7 +403,7 @@ include('include/header.php');
                                                         <span class="el-checkbox__inner"></span>
                                                         <input type="checkbox" aria-hidden="false" name="Agreement to MKT" class="el-checkbox__original">
                                                     </span>
-                                                    <span class="el-checkbox__label">I want to receive product updates, marketing news, and other relevant content by email from
+                                                    <span class="el-checkbox__label">I want to receive product updates, marketing news, and other relevant content by email from Taxcare.(Optional Select) 
           ZEGOCLOUD.
                                                     <!---->
                                                     </span>
@@ -420,7 +420,7 @@ include('include/header.php');
                                                         <input type="checkbox" aria-hidden="false" class="el-checkbox__original">
                                                     </span>
                                                     <span class="el-checkbox__label">
-                                                        I have read and agreed to ZEGOCLOUD's <a href="/terms-of-service" data-v-11d3275c>Terms of Service</a>
+                                                        I have read and agreed to Taxcare's Terms of Service and Privacy Policy. <a href="/terms-of-service" data-v-11d3275c>Terms of Service</a>
                                                         and
           <a href="/privacy-policy" data-v-11d3275c>Privacy Policy</a>
                                                         .

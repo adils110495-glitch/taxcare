@@ -2,12 +2,12 @@
                         <div class="uikits-code" data-v-8cad2dd2 data-v-b324c596>
                             <div class="container" data-v-8cad2dd2>
                                 <h6 data-wow-duration="1s" class="title wow" data-v-8cad2dd2>2 Ways to Get Started</h6>
-                                <p data-wow-duration="1s" class="content wow" data-v-8cad2dd2>We offer various scenario-based UIKits that allow you to drop full features of video calls into your app. If you want your video call UI entirely up to you, we also offer SDKs with lower-level core APIs.</p>
+                                <p data-wow-duration="1s" class="content wow" data-v-8cad2dd2>We offer various scenario-based UIKits that allow you to drop full features of video calls into your app. If you want your video call UI entirely up to you, we also offer SDKs with lower-level core APIs.We offer various scenario-based UIKits that allow you to drop full features of video calls into your app. If you want your video call UI entirely up to you, we also offer SDKs with lower-level core APIs.</p>
                                 <div class="codeContent" data-v-8cad2dd2>
                                     <div data-wow-duration="1s" data-wow-delay="0s" class="modules wow" data-v-8cad2dd2>
                                         <div class="text" data-v-8cad2dd2>
                                             <p class="modules-type" data-v-8cad2dd2>UIKits</p>
-                                            <p class="modules-title" data-v-8cad2dd2>Embed interactive scenarios with &lt;10 lines of code</p>
+                                            <p class="modules-title" data-v-8cad2dd2>Embed interactive scenarios with < 10 lines of code</p>
                                             <p class="modules-desc" data-v-8cad2dd2>With our scenario-based pre-built UIKits, you can make apps and go live in 30 minutes for early testing or build MVPs, allowing you to focus on your core business.</p>
                                         </div>
                                         <div class="code" data-v-8cad2dd2>

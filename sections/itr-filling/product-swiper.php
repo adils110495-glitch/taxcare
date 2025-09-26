@@ -1,23 +1,23 @@
 
                         <div class="product-swiper" data-v-f29e7e0e data-v-b324c596>
                             <div class="container" data-v-f29e7e0e>
-                                <h2 data-wow-duration="1s" class="title wow" data-v-f29e7e0e>Integrate interactive real-time video into every aspect of life</h2>
+                                <h2 data-wow-duration="1s" class="title wow" data-v-f29e7e0e>Simplifying taxes for everyone — from salaried professionals to Freelancer</h2>
                                 <div data-wow-duration="1s" data-wow-delay="0.1s" class="product-nav-con wow" data-v-f29e7e0e>
                                     <ul class="product-nav" data-v-f29e7e0e>
                                         <li class="nav-item nav-selected" data-v-f29e7e0e>
-                                            <p data-v-f29e7e0e>Social</p>
+                                            <p data-v-f29e7e0e>Salary</p>
                                         </li>
                                         <li class="nav-item" data-v-f29e7e0e>
-                                            <p data-v-f29e7e0e>Education</p>
+                                            <p data-v-f29e7e0e>Share Trader</p>
                                         </li>
                                         <li class="nav-item" data-v-f29e7e0e>
-                                            <p data-v-f29e7e0e>Video conferencing</p>
+                                            <p data-v-f29e7e0e>Future & Options</p>
                                         </li>
                                         <li class="nav-item" data-v-f29e7e0e>
-                                            <p data-v-f29e7e0e>Customer services</p>
+                                            <p data-v-f29e7e0e>Freelancer</p>
                                         </li>
                                         <li class="nav-item" data-v-f29e7e0e>
-                                            <p data-v-f29e7e0e>Telehealth</p>
+                                            <p data-v-f29e7e0e>On Site Programme</p>
                                         </li>
                                         <li class="nav-item" data-v-f29e7e0e>
                                             <p data-v-f29e7e0e>Live events</p>
@@ -32,20 +32,20 @@
                                             <img src="/taxcare/_nuxt/img/img_viode_social@2x.a03c59b.jpg" alt="Social" loading="lazy" class="left-img" data-v-f29e7e0e>
                                         </picture>
                                         <div class="right" data-v-f29e7e0e>
-                                            <h3 class="item-title" data-v-f29e7e0e>Help users build better connections via live video calls
+                                            <h3 class="item-title" data-v-f29e7e0e>Help salaried individuals file taxes smarter and faster
           </h3>
-                                            <p class="item-desc" data-v-f29e7e0e>Embed live video calls into your social apps, and let your users vividly see each other's face, feel each other's emotions, and build deeper connections. 
+                                            <p class="item-desc" data-v-f29e7e0e>Make tax filing stress-free for salaried professionals with Taxcare. Upload your documents, connect with a tax expert, and file your return with confidence — all in one app. 
           </p>
                                             <!---->
                                             <!---->
                                             <ul class="tags-wrap" data-v-f29e7e0e>
-                                                <li class="tag" data-v-f29e7e0e>Live broadcasts</li>
-                                                <li class="tag" data-v-f29e7e0e>Online dating</li>
-                                                <li class="tag" data-v-f29e7e0e>Interactive live streaming</li>
-                                                <li class="tag" data-v-f29e7e0e>Hang out together</li>
+                                                <li class="tag" data-v-f29e7e0e>Salary Income Filing</li>
+                                                <li class="tag" data-v-f29e7e0e>House Rent Allowance (HRA) Claims</li>
+                                                <li class="tag" data-v-f29e7e0e>Investment Proofs</li>
+                                                <li class="tag" data-v-f29e7e0e>Refund Optimization</li>
                                             </ul>
                                             <p class="link" data-v-f29e7e0e>
-                                                Learn more about social solutions <span data-v-f29e7e0e></span>
+                                                Check about pricing <span data-v-f29e7e0e></span>
                                             </p>
                                         </div>
                                     </div>
@@ -56,9 +56,9 @@
                                             <img src="/taxcare/_nuxt/img/img_viode_education@2x.51ed0ef.jpg" alt="Education" loading="lazy" class="left-img" data-v-f29e7e0e>
                                         </picture>
                                         <div class="right" data-v-f29e7e0e>
-                                            <h3 class="item-title" data-v-f29e7e0e>Make every virtual class easy, engaging, and productive for students
+                                            <h3 class="item-title" data-v-f29e7e0e>Go to the market one step faster
           </h3>
-                                            <p class="item-desc" data-v-f29e7e0e>Create virtual classrooms for all types of online learning. Deliver a successful online learning experience with real-time video calls, screen sharing, and other features.
+                                            <p class="item-desc" data-v-f29e7e0e>20+ Pre-built UIKits let you create engaging apps in the shortest possible time, instead of starting from scratch.
           </p>
                                             <!---->
                                             <!---->

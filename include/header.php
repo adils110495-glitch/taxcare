@@ -1,10 +1,15 @@
 <?php
-define('THEME_URL', 'http://localhost/taxcare/'); 
+define('THEME_URL', 'https://dka.pw/taxcare/'); 
 define('THEME_PATH', dirname(__DIR__) . "/");
 
 $path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
-$filename = pathinfo(basename($path), PATHINFO_FILENAME);
+if (str_ends_with($path, '.php')) {
+    $filename = pathinfo(basename($path), PATHINFO_FILENAME);
+} else {
+    $filename = '';
+}
 $file_array = [
+    '' => 'index',
     'partners' => 'partners',
     'tools' => 'partners',
     'itr-filing' => 'product',

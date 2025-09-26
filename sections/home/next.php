@@ -6,13 +6,13 @@
                   <p class="content-title" data-v-0b9ca07e="">
                     Transparent Pricing <span data-v-0b9ca07e=""></span></p>
                   <p class="content-text" data-v-0b9ca07e="">Know exactly what you pay, with no hidden charges. </p>
-                  <div class="btn" data-v-0b9ca07e="">[Pricing] </div>
+                  <div class="btn" data-v-0b9ca07e="">Pricing </div>
                 </div>
                 <div data-wow-duration="1s" data-wow-delay="0.1s" class="content-wrapper wow" data-v-0b9ca07e="">
                   <p class="content-title" data-v-0b9ca07e="">
                     Your Complete Taxcare Guide <span data-v-0b9ca07e=""></span></p>
                   <p class="content-text" data-v-0b9ca07e="">Step-by-step guidance, tips, and expert insights to make your tax journey simpler and smarter.. </p>
-                  <div class="btn" data-v-0b9ca07e="">[Taxcare Guide] </div>
+                  <div class="btn" data-v-0b9ca07e="">Taxcare Guide </div>
                 </div>
                 <div data-wow-duration="1s" data-wow-delay="0.2s" class="content-wrapper wow" data-v-0b9ca07e="">
                   <p class="content-title" data-v-0b9ca07e="">

@@ -1,5 +1,4 @@
-
-                        <div class="minute" data-v-8ff9a6e4 data-v-b324c596>
+<div class="minute" data-v-8ff9a6e4 data-v-b324c596>
                             <div class="container" data-v-8ff9a6e4>
                                 <p data-wow-duration="1s" class="title wow" data-v-8ff9a6e4>ONLY 3 STEPS</p>
                                 <h4 data-wow-duration="1s" data-wow-delay="0.1s" class="title1 wow" data-v-8ff9a6e4>

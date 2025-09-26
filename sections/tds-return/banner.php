@@ -2,11 +2,11 @@
                             <div class="container" data-v-7bbac17a>
                                 <div class="left-content" data-v-7bbac17a>
                                     <h1 data-v-7bbac17a>
-                                        <p class="title" data-v-7bbac17a>Build Immersive Video Experience with Video Call SDK & API</p>
+                                        <p class="title" data-v-7bbac17a>Ensure accurate TDS filing and avoid penalties.</p>
                                     </h1>
-                                    <p class="desc" data-v-7bbac17a>Embed high-quality real-time video into your applications with ZEGOCLOUD's live video call API.</p>
+                                    <p class="desc" data-v-7bbac17a>EAccurate, compliant, and on-time TDS return filing tailored for your needs.</p>
                                     <div class="btn-con" data-v-7bbac17a>
-                                        <span class="btn-build" data-v-7bbac17a>Start building</span>
+                                        <span class="btn-build" data-v-7bbac17a>Start Filing/></span>
                                         <!---->
                                     </div>
                                 </div>

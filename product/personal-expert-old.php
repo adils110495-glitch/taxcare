@@ -1,8 +1,7 @@
 <?php include('../include/header.php')?>
                     <div id="video-call" data-v-b324c596>
                         <div class="navBar container" data-v-1c35a3de data-v-b324c596>
-                            <div class="navBar-left" data-v-1c35a3de>Income Tax Return
- </div>
+                            <div class="navBar-left" data-v-1c35a3de>Video Call</div>
                             <div class="navBar-right" data-v-1c35a3de>
                                 <div class="item" data-v-1c35a3de>Overview
       
@@ -30,20 +29,19 @@
                                 </div>
                             </div>
                         </div>
-                        <?php include('../sections/itr-filling/banner.php');?>
-                        <?php include('../sections/itr-filling/feature-swiper.php');?>
-                        <?php include('../sections/itr-filling/data-line.php');?>
-                        <?php include('../sections/itr-filling/product-swiper.php');?>
-                        <?php include('../sections/itr-filling/ui-kits.php');?>
-                        <?php include('../sections/itr-filling/minute.php');?>
-                        <?php include('../sections/itr-filling/advantage.php');?>
-                        <?php include('../sections/itr-filling/ui-kits-code.php');?>
-                        <?php include('../sections/itr-filling/develop-step-cards.php');?>
-                        <?php include('../sections/itr-filling/reviews.php');?>
-                        <?php include('../sections/itr-filling/enterprise.php');?>
-                        <?php include('../sections/itr-filling/know-us.php');?>
-                        <?php include('../sections/itr-filling/explore.php');?>
-                        <?php include('../sections/itr-filling/select-support.php');?>
+                        <?php include('../sections/personal-tax-expert/banner.php');?>
+                        <?php include('../sections/personal-tax-expert/feature-swiper.php');?>
+                        <?php include('../sections/personal-tax-expert/data-line.php');?>
+                        <?php include('../sections/personal-tax-expert/product-swiper.php');?>
+                        <?php include('../sections/personal-tax-expert/ui-kits.php');?>
+                        <?php include('../sections/personal-tax-expert/advantage.php');?>
+                        <?php include('../sections/personal-tax-expert/ui-kits-code.php');?>
+                        <?php include('../sections/personal-tax-expert/develop-step-cards.php');?>
+                        <?php include('../sections/personal-tax-expert/reviews.php');?>
+                        <?php include('../sections/personal-tax-expert/enterprise.php');?>
+                        <?php include('../sections/personal-tax-expert/know-us.php');?>
+                        <?php include('../sections/personal-tax-expert/explore.php');?>
+                        <?php include('../sections/personal-tax-expert/select-support.php');?>
                         
                         
                     </div>

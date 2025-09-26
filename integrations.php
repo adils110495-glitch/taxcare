@@ -6,15 +6,15 @@
                                 <div class="container" data-v-6e92a31c>
                                     <div class="left-content" data-v-6e92a31c>
                                         <h1 data-v-6e92a31c>
-                                            <p class="small-title" data-v-6e92a31c>ZEGOCLOUD</p>
+                                            <p class="small-title" data-v-6e92a31c>Taxcare</p>
                                             <p class="title" data-v-6e92a31c>
-                                                <span data-v-6e92a31c>Demo apps  </span>
+                                                <span data-v-6e92a31c>Integration</span>
                                                 <span data-v-6e92a31c>hub </span>
                                             </p>
                                         </h1>
-                                        <p class="desc" data-v-6e92a31c>Explore, download, and try out all our demo apps here. Learn what you can build with our SDKs and APIs.</p>
+                                        <p class="desc" data-v-6e92a31c>Explore, connect, and experience Taxcare across platforms. See how easy it is to file your taxes with our seamless integrations.</p>
                                         <div class="btn-con" data-v-6e92a31c>
-                                            <span class="btn-build" data-v-6e92a31c>Start building</span>
+                                            <span class="btn-build" data-v-6e92a31c>Start Smart Filing</span>
                                             <!---->
                                         </div>
                                     </div>
@@ -59,7 +59,7 @@
                                             <div class="tab-card" data-v-6be27fe0>
                                                 <img src="/_nuxt/img/icon_zegocall@2x.227f34d.png" alt="ZEGO Call" loading="lazy" class="tab-card__icon" data-v-6be27fe0>
                                                 <div class="tab-card__right" data-v-6be27fe0>
-                                                    <p class="tab-card__right-title" data-v-6be27fe0>ZEGO Call
+                                                    <p class="tab-card__right-title" data-v-6be27fe0>Upstox
             </p>
                                                     <ul class="tab-card__right-score-wrapper" data-v-6be27fe0>
                                                         <li class="light" data-v-6be27fe0></li>
@@ -67,14 +67,14 @@
                                                         <li class="light" data-v-6be27fe0></li>
                                                         <li class="light" data-v-6be27fe0></li>
                                                         <li data-v-6be27fe0></li>
-                                                        <p class="tab-card_right-score" data-v-6be27fe0>4.9</p>
+                                                        <p class="tab-card_right-score" data-v-6be27fe0>1.4.9</p>
                                                     </ul>
                                                 </div>
                                             </div>
                                             <div class="tab-card" style="display:none" data-v-6be27fe0>
                                                 <img src="/_nuxt/img/icon_zegolive@2x.6d6c80e.png" alt="ZEGO Live" loading="lazy" class="tab-card__icon" data-v-6be27fe0>
                                                 <div class="tab-card__right" data-v-6be27fe0>
-                                                    <p class="tab-card__right-title" data-v-6be27fe0>ZEGO Live
+                                                    <p class="tab-card__right-title" data-v-6be27fe0>Zerodha
             </p>
                                                     <ul class="tab-card__right-score-wrapper" data-v-6be27fe0>
                                                         <li class="light" data-v-6be27fe0></li>
@@ -82,14 +82,14 @@
                                                         <li class="light" data-v-6be27fe0></li>
                                                         <li class="light" data-v-6be27fe0></li>
                                                         <li data-v-6be27fe0></li>
-                                                        <p class="tab-card_right-score" data-v-6be27fe0>4.9</p>
+                                                        <p class="tab-card_right-score" data-v-6be27fe0>1.2.2</p>
                                                     </ul>
                                                 </div>
                                             </div>
                                             <div class="tab-card" style="display:none" data-v-6be27fe0>
                                                 <img src="/_nuxt/img/icon_liveaudio@2x.e923564.png" alt="ZEGO Live Audio" loading="lazy" class="tab-card__icon" data-v-6be27fe0>
                                                 <div class="tab-card__right" data-v-6be27fe0>
-                                                    <p class="tab-card__right-title" data-v-6be27fe0>ZEGO Live Audio
+                                                    <p class="tab-card__right-title" data-v-6be27fe0>Fyers
             </p>
                                                     <ul class="tab-card__right-score-wrapper" data-v-6be27fe0>
                                                         <li class="light" data-v-6be27fe0></li>
@@ -97,14 +97,14 @@
                                                         <li class="light" data-v-6be27fe0></li>
                                                         <li class="light" data-v-6be27fe0></li>
                                                         <li data-v-6be27fe0></li>
-                                                        <p class="tab-card_right-score" data-v-6be27fe0>4.7</p>
+                                                        <p class="tab-card_right-score" data-v-6be27fe0>1.1.0</p>
                                                     </ul>
                                                 </div>
                                             </div>
                                             <div class="tab-card" style="display:none" data-v-6be27fe0>
                                                 <img src="/_nuxt/img/icon_zegoeffect@2x.ae40a37.png" alt="ZEGO Effects" loading="lazy" class="tab-card__icon" data-v-6be27fe0>
                                                 <div class="tab-card__right" data-v-6be27fe0>
-                                                    <p class="tab-card__right-title" data-v-6be27fe0>ZEGO Effects
+                                                    <p class="tab-card__right-title" data-v-6be27fe0>Dhan
             </p>
                                                     <ul class="tab-card__right-score-wrapper" data-v-6be27fe0>
                                                         <li class="light" data-v-6be27fe0></li>
@@ -112,7 +112,7 @@
                                                         <li class="light" data-v-6be27fe0></li>
                                                         <li class="light" data-v-6be27fe0></li>
                                                         <li data-v-6be27fe0></li>
-                                                        <p class="tab-card_right-score" data-v-6be27fe0>4.9</p>
+                                                        <p class="tab-card_right-score" data-v-6be27fe0>1.1.0</p>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -126,13 +126,13 @@
                                                     <div class="app-title-wrap" data-v-6be27fe0>
                                                         <img src="/_nuxt/img/m_logo_icon_zegocall@2x.174730f.png" alt="ZEGO Call" loading="lazy" class="mb-app-icon" data-v-6be27fe0>
                                                         <h3 class="app-title" data-v-6be27fe0>
-                                                            ZEGO Call <span class="app-version" data-v-6be27fe0>1.1.0</span>
+                                                            5Paisa <span class="app-version" data-v-6be27fe0>1.1.0</span>
                                                         </h3>
                                                     </div>
                                                     <p class="app-desc" data-v-6be27fe0>
-                                                        <span data-v-6be27fe0>Start experiencing </span>
-                                                        <span data-v-6be27fe0>high-quality</span>
-                                                        <span data-v-6be27fe0>voice and video calls with ZEGO Call.</span>
+                                                        <span data-v-6be27fe0>Connect your Upstox account </span>
+                                                        <span data-v-6be27fe0>to Taxcare and unlock</span>
+                                                        <span data-v-6be27fe0>these features with just one click:</span>
                                                     </p>
                                                     <div class="download-wrap" data-v-6be27fe0>
                                                         <div class="download-btn apple" data-v-6be27fe0>
@@ -157,8 +157,10 @@
                                                         </div>
                                                         <div class="download-btn web" data-v-6be27fe0>
                                                             <p data-v-6be27fe0>
-                                                                <span data-v-6be27fe0>Try it in a </span>
-                                                                <span data-v-6be27fe0>Browser</span>
+                                                                <span data-v-6be27fe0>Intraday & F&O Trading </span>
+                                                                <span data-v-6be27fe0>Audit Preparation</span>
+                                                                <span data-v-6be27fe0>Business Income Reporting</span>
+                                                                
                                                             </p>
                                                             <div class="download-icon" data-v-6be27fe0></div>
                                                         </div>

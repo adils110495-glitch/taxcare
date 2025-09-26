@@ -5,8 +5,8 @@
                                 <p data-wow-duration="1s" data-wow-delay="0.1s" class="know-text wow" data-v-c7f5f0e6></p>
                                 <div data-wow-duration="1s" data-wow-delay="0.2s" class="know-content wow" data-v-c7f5f0e6></div>
                                 <div data-wow-duration="1s" data-wow-delay="0.3s" class="know-data wow" data-v-c7f5f0e6>
-                                    <p class="data-title" data-v-c7f5f0e6>We're committed to data security and user privacy</p>
-                                    <p class="data-text" data-v-c7f5f0e6>We've implemented security measures according to industry standards and obtained industry-recognized certifications, so you can be assured that your data remain secure and compliant.</p>
+                                    <p class="data-title" data-v-c7f5f0e6>Your Data, Your Privacy, Our Priority</p>
+                                    <p class="data-text" data-v-c7f5f0e6>With advanced security measures and recognized certifications, we keep your information secure and compliant at every step.</p>
                                     <div class="data-bg" data-v-c7f5f0e6></div>
                                 </div>
                             </div>

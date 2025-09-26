@@ -2,11 +2,13 @@
                             <div class="container" data-v-7bbac17a>
                                 <div class="left-content" data-v-7bbac17a>
                                     <h1 data-v-7bbac17a>
-                                        <p class="title" data-v-7bbac17a>Build Immersive Video Experience with Video Call SDK & API</p>
+                                        <p class="title" data-v-7bbac17a>Maximize your tax refund with expert-assisted ITR filing.</p>
                                     </h1>
-                                    <p class="desc" data-v-7bbac17a>Embed high-quality real-time video into your applications with ZEGOCLOUD's live video call API.</p>
+                                    <p class="desc" data-v-7bbac17a>File your ITR easily and quickly with guidance from certified tax professionals.
+
+</p>
                                     <div class="btn-con" data-v-7bbac17a>
-                                        <span class="btn-build" data-v-7bbac17a>Start building</span>
+                                        <span class="btn-build" data-v-7bbac17a>Start Filing/></span>
                                         <!---->
                                     </div>
                                 </div>
