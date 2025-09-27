@@ -38,8 +38,6 @@ $slug = end($segments);
 $slugFormatted = ucwords(str_replace(['-', '_'], ' ', $slug));
 ?>
 
-?>
-
 <!doctype html>
 <html lang="en">
 

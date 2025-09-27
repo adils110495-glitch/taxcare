@@ -333,6 +333,13 @@ function qs(sel, root) { return (root || document).querySelector(sel); }
           prevEl: ".success-example .prev-btn",
         },
       });
+      var AppSwiper = new Swiper(".pc.swiper", {
+        direction: "vertical",
+        pagination: {
+          el: ".swiper-pagination",
+          clickable: true,
+        },
+      });
       }
     })();
 

@@ -285,8 +285,8 @@
                 font-family: Poppins-Light;
                 font-style: normal;
                 font-weight: 300;
-                src: url(/_nuxt/fonts/poppins-v20-latin-300.1c059ad.eot);
-                src: local(""),url(/_nuxt/fonts/poppins-v20-latin-300.1c059ad.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/poppins-v20-latin-300.39576fe.woff2) format("woff2"),url(/_nuxt/fonts/poppins-v20-latin-300.5558b04.woff) format("woff"),url(/_nuxt/fonts/poppins-v20-latin-300.6cc700a.ttf) format("truetype")
+                src: url(../_nuxt/fonts/poppins-v20-latin-300.1c059ad.eot);
+                src: local(""),url(../_nuxt/fonts/poppins-v20-latin-300.1c059ad.eot?#iefix) format("embedded-opentype"),url(../_nuxt/fonts/poppins-v20-latin-300.39576fe.woff2) format("woff2"),url(../_nuxt/fonts/poppins-v20-latin-300.5558b04.woff) format("woff"),url(../_nuxt/fonts/poppins-v20-latin-300.6cc700a.ttf) format("truetype")
             }
 
             @font-face {
@@ -294,8 +294,8 @@
                 font-family: Poppins-Regular;
                 font-style: normal;
                 font-weight: 400;
-                src: url(/_nuxt/fonts/poppins-v20-latin-regular.27a38aa.eot);
-                src: local(""),url(/_nuxt/fonts/poppins-v20-latin-regular.27a38aa.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/poppins-v20-latin-regular.405055d.woff2) format("woff2"),url(/_nuxt/fonts/poppins-v20-latin-regular.f61407d.woff) format("woff"),url(/_nuxt/fonts/poppins-v20-latin-regular.80946c0.ttf) format("truetype"),url(/_nuxt/img/poppins-v20-latin-regular.04277a7.svg#Poppins) format("svg")
+                src: url(../_nuxt/fonts/poppins-v20-latin-regular.27a38aa.eot);
+                src: local(""),url(../_nuxt/fonts/poppins-v20-latin-regular.27a38aa.eot?#iefix) format("embedded-opentype"),url(../_nuxt/fonts/poppins-v20-latin-regular.405055d.woff2) format("woff2"),url(../_nuxt/fonts/poppins-v20-latin-regular.f61407d.woff) format("woff"),url(../_nuxt/fonts/poppins-v20-latin-regular.80946c0.ttf) format("truetype"),url(../_nuxt/img/poppins-v20-latin-regular.04277a7.svg#Poppins) format("svg")
             }
 
             @font-face {
@@ -303,8 +303,8 @@
                 font-family: Poppins;
                 font-style: normal;
                 font-weight: 500;
-                src: url(/_nuxt/fonts/poppins-v20-latin-500.7caad43.eot);
-                src: local(""),url(/_nuxt/fonts/poppins-v20-latin-500.7caad43.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/poppins-v20-latin-500.08491d3.woff2) format("woff2"),url(/_nuxt/fonts/poppins-v20-latin-500.8609f9c.woff) format("woff"),url(/_nuxt/fonts/poppins-v20-latin-500.c5bf954.ttf) format("truetype"),url(/_nuxt/img/poppins-v20-latin-500.138d54d.svg#Poppins) format("svg")
+                src: url(../_nuxt/fonts/poppins-v20-latin-500.7caad43.eot);
+                src: local(""),url(../_nuxt/fonts/poppins-v20-latin-500.7caad43.eot?#iefix) format("embedded-opentype"),url(../_nuxt/fonts/poppins-v20-latin-500.08491d3.woff2) format("woff2"),url(../_nuxt/fonts/poppins-v20-latin-500.8609f9c.woff) format("woff"),url(../_nuxt/fonts/poppins-v20-latin-500.c5bf954.ttf) format("truetype"),url(../_nuxt/img/poppins-v20-latin-500.138d54d.svg#Poppins) format("svg")
             }
 
             @font-face {
@@ -312,8 +312,8 @@
                 font-family: Poppins-Medium;
                 font-style: normal;
                 font-weight: 500;
-                src: url(/_nuxt/fonts/poppins-v20-latin-500.7caad43.eot);
-                src: local(""),url(/_nuxt/fonts/poppins-v20-latin-500.7caad43.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/poppins-v20-latin-500.08491d3.woff2) format("woff2"),url(/_nuxt/fonts/poppins-v20-latin-500.8609f9c.woff) format("woff"),url(/_nuxt/fonts/poppins-v20-latin-500.c5bf954.ttf) format("truetype"),url(/_nuxt/img/poppins-v20-latin-500.138d54d.svg#Poppins) format("svg")
+                src: url(../_nuxt/fonts/poppins-v20-latin-500.7caad43.eot);
+                src: local(""),url(../_nuxt/fonts/poppins-v20-latin-500.7caad43.eot?#iefix) format("embedded-opentype"),url(../_nuxt/fonts/poppins-v20-latin-500.08491d3.woff2) format("woff2"),url(../_nuxt/fonts/poppins-v20-latin-500.8609f9c.woff) format("woff"),url(../_nuxt/fonts/poppins-v20-latin-500.c5bf954.ttf) format("truetype"),url(../_nuxt/img/poppins-v20-latin-500.138d54d.svg#Poppins) format("svg")
             }
 
             @font-face {
@@ -321,8 +321,8 @@
                 font-family: Poppins-SemiBold;
                 font-style: normal;
                 font-weight: 600;
-                src: url(/_nuxt/fonts/poppins-v20-latin-600.055c17a.eot);
-                src: local(""),url(/_nuxt/fonts/poppins-v20-latin-600.055c17a.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/poppins-v20-latin-600.9114501.woff2) format("woff2"),url(/_nuxt/fonts/poppins-v20-latin-600.25ea813.woff) format("woff"),url(/_nuxt/fonts/poppins-v20-latin-600.fbef39d.ttf) format("truetype"),url(/_nuxt/img/poppins-v20-latin-600.604adf2.svg#Poppins) format("svg")
+                src: url(../_nuxt/fonts/poppins-v20-latin-600.055c17a.eot);
+                src: local(""),url(../_nuxt/fonts/poppins-v20-latin-600.055c17a.eot?#iefix) format("embedded-opentype"),url(../_nuxt/fonts/poppins-v20-latin-600.9114501.woff2) format("woff2"),url(../_nuxt/fonts/poppins-v20-latin-600.25ea813.woff) format("woff"),url(../_nuxt/fonts/poppins-v20-latin-600.fbef39d.ttf) format("truetype"),url(../_nuxt/img/poppins-v20-latin-600.604adf2.svg#Poppins) format("svg")
             }
 
             @font-face {
@@ -330,8 +330,8 @@
                 font-family: Poppins-Bold;
                 font-style: normal;
                 font-weight: 700;
-                src: url(/_nuxt/fonts/poppins-v20-latin-700.f808204.eot);
-                src: local(""),url(/_nuxt/fonts/poppins-v20-latin-700.f808204.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/poppins-v20-latin-700.d86662f.woff2) format("woff2"),url(/_nuxt/fonts/poppins-v20-latin-700.c54a526.woff) format("woff"),url(/_nuxt/fonts/poppins-v20-latin-700.6937676.ttf) format("truetype"),url(/_nuxt/img/poppins-v20-latin-700.faf69e7.svg#Poppins) format("svg")
+                src: url(../_nuxt/fonts/poppins-v20-latin-700.f808204.eot);
+                src: local(""),url(../_nuxt/fonts/poppins-v20-latin-700.f808204.eot?#iefix) format("embedded-opentype"),url(../_nuxt/fonts/poppins-v20-latin-700.d86662f.woff2) format("woff2"),url(../_nuxt/fonts/poppins-v20-latin-700.c54a526.woff) format("woff"),url(../_nuxt/fonts/poppins-v20-latin-700.6937676.ttf) format("truetype"),url(../_nuxt/img/poppins-v20-latin-700.faf69e7.svg#Poppins) format("svg")
             }
 
             @font-face {
@@ -339,8 +339,8 @@
                 font-family: Poppins-Black;
                 font-style: normal;
                 font-weight: 900;
-                src: url(/_nuxt/fonts/poppins-v20-latin-900.581e4c6.eot);
-                src: local(""),url(/_nuxt/fonts/poppins-v20-latin-900.581e4c6.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/poppins-v20-latin-900.7b1a4c8.woff2) format("woff2"),url(/_nuxt/fonts/poppins-v20-latin-900.e9a4612.woff) format("woff"),url(/_nuxt/fonts/poppins-v20-latin-900.e77fbe7.ttf) format("truetype"),url(/_nuxt/img/poppins-v20-latin-900.b44b73b.svg#Poppins) format("svg")
+                src: url(../_nuxt/fonts/poppins-v20-latin-900.581e4c6.eot);
+                src: local(""),url(../_nuxt/fonts/poppins-v20-latin-900.581e4c6.eot?#iefix) format("embedded-opentype"),url(../_nuxt/fonts/poppins-v20-latin-900.7b1a4c8.woff2) format("woff2"),url(../_nuxt/fonts/poppins-v20-latin-900.e9a4612.woff) format("woff"),url(../_nuxt/fonts/poppins-v20-latin-900.e77fbe7.ttf) format("truetype"),url(../_nuxt/img/poppins-v20-latin-900.b44b73b.svg#Poppins) format("svg")
             }
 
             @font-face {
@@ -348,8 +348,8 @@
                 font-family: RobotoMono-Regular;
                 font-style: normal;
                 font-weight: 400;
-                src: url(/_nuxt/fonts/roboto-mono-v21-latin-regular.37ff2a2.eot);
-                src: local(""),url(/_nuxt/fonts/roboto-mono-v21-latin-regular.37ff2a2.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/roboto-mono-v21-latin-regular.535bc89.woff2) format("woff2"),url(/_nuxt/fonts/roboto-mono-v21-latin-regular.498042b.woff) format("woff"),url(/_nuxt/fonts/roboto-mono-v21-latin-regular.1b6f747.ttf) format("truetype"),url(/_nuxt/img/roboto-mono-v21-latin-regular.b857c1f.svg#RobotoMono) format("svg")
+                src: url(../_nuxt/fonts/roboto-mono-v21-latin-regular.37ff2a2.eot);
+                src: local(""),url(../_nuxt/fonts/roboto-mono-v21-latin-regular.37ff2a2.eot?#iefix) format("embedded-opentype"),url(../_nuxt/fonts/roboto-mono-v21-latin-regular.535bc89.woff2) format("woff2"),url(../_nuxt/fonts/roboto-mono-v21-latin-regular.498042b.woff) format("woff"),url(../_nuxt/fonts/roboto-mono-v21-latin-regular.1b6f747.ttf) format("truetype"),url(../_nuxt/img/roboto-mono-v21-latin-regular.b857c1f.svg#RobotoMono) format("svg")
             }
 
             @font-face {
@@ -357,8 +357,8 @@
                 font-family: RobotoMono-Medium;
                 font-style: normal;
                 font-weight: 500;
-                src: url(/_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot);
-                src: local(""),url(/_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/roboto-mono-v21-latin-500.c1f1736.woff2) format("woff2"),url(/_nuxt/fonts/roboto-mono-v21-latin-500.2ed4651.woff) format("woff"),url(/_nuxt/fonts/roboto-mono-v21-latin-500.e6e6cf2.ttf) format("truetype"),url(/_nuxt/img/roboto-mono-v21-latin-500.2a6beae.svg#RobotoMono) format("svg")
+                src: url(../_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot);
+                src: local(""),url(../_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot?#iefix) format("embedded-opentype"),url(../_nuxt/fonts/roboto-mono-v21-latin-500.c1f1736.woff2) format("woff2"),url(../_nuxt/fonts/roboto-mono-v21-latin-500.2ed4651.woff) format("woff"),url(../_nuxt/fonts/roboto-mono-v21-latin-500.e6e6cf2.ttf) format("truetype"),url(../_nuxt/img/roboto-mono-v21-latin-500.2a6beae.svg#RobotoMono) format("svg")
             }
 
             @font-face {
@@ -366,8 +366,8 @@
                 font-family: RobotoMono;
                 font-style: normal;
                 font-weight: 500;
-                src: url(/_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot);
-                src: local(""),url(/_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/roboto-mono-v21-latin-500.c1f1736.woff2) format("woff2"),url(/_nuxt/fonts/roboto-mono-v21-latin-500.2ed4651.woff) format("woff"),url(/_nuxt/fonts/roboto-mono-v21-latin-500.e6e6cf2.ttf) format("truetype"),url(/_nuxt/img/roboto-mono-v21-latin-500.2a6beae.svg#RobotoMono) format("svg")
+                src: url(../_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot);
+                src: local(""),url(../_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot?#iefix) format("embedded-opentype"),url(../_nuxt/fonts/roboto-mono-v21-latin-500.c1f1736.woff2) format("woff2"),url(../_nuxt/fonts/roboto-mono-v21-latin-500.2ed4651.woff) format("woff"),url(../_nuxt/fonts/roboto-mono-v21-latin-500.e6e6cf2.ttf) format("truetype"),url(../_nuxt/img/roboto-mono-v21-latin-500.2a6beae.svg#RobotoMono) format("svg")
             }
 
             @font-face {
@@ -375,7 +375,7 @@
                 font-family: DM Mono;
                 font-style: normal;
                 font-weight: 300;
-                src: url(/_nuxt/fonts/DMMono-Light.2cf6d0b.ttf) format("truetype")
+                src: url(../_nuxt/fonts/DMMono-Light.2cf6d0b.ttf) format("truetype")
             }
 
             @font-face {
@@ -383,7 +383,7 @@
                 font-family: DM Mono;
                 font-style: normal;
                 font-weight: 400;
-                src: url(/_nuxt/fonts/DMMono-Regular.15edd89.ttf) format("truetype")
+                src: url(../_nuxt/fonts/DMMono-Regular.15edd89.ttf) format("truetype")
             }
 
             @font-face {
@@ -391,7 +391,7 @@
                 font-family: DM Mono;
                 font-style: normal;
                 font-weight: 500;
-                src: url(/_nuxt/fonts/DMMono-Medium.50d7af0.ttf) format("truetype")
+                src: url(../_nuxt/fonts/DMMono-Medium.50d7af0.ttf) format("truetype")
             }
 
             @font-face {
@@ -399,14 +399,14 @@
                 font-family: Monaco;
                 font-style: normal;
                 font-weight: 400;
-                src: url(/_nuxt/fonts/Monaco.b639622.ttf) format("truetype")
+                src: url(../_nuxt/fonts/Monaco.b639622.ttf) format("truetype")
             }
 
             @font-face {
                 font-display: swap;
                 font-family: DingTalk JinBuTi;
                 font-style: normal;
-                src: url(/_nuxt/fonts/DingTalk-JinBuTi.a0bb3c3.ttf) format("truetype")
+                src: url(../_nuxt/fonts/DingTalk-JinBuTi.a0bb3c3.ttf) format("truetype")
             }
 
             @font-face {
@@ -1338,7 +1338,7 @@
                 font-family: element-icons;
                 font-style: normal;
                 font-weight: 400;
-                src: url(/_nuxt/fonts/element-icons.313f7da.woff) format("woff"),url(/_nuxt/fonts/element-icons.4520188.ttf) format("truetype")
+                src: url(../_nuxt/fonts/element-icons.313f7da.woff) format("woff"),url(../_nuxt/fonts/element-icons.4520188.ttf) format("truetype")
             }
 
             [class*=" el-icon-"],[class^=el-icon-] {
@@ -8411,7 +8411,7 @@
                 }
 
                 .item-solutions .solutions-item-title .newTag[data-v-6ccd7fd0] {
-                    background: url(/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
+                    background: url(../_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
                     background-size: 39px 18px;
                     border-radius: 4px;
                     display: block;
@@ -8630,7 +8630,7 @@
                 }
 
                 .menu-left .item-solutions .solutions-item-title .newTag[data-v-6ccd7fd0] {
-                    background: url(/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
+                    background: url(../_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
                     background-size: 9.0666666667vw 4.2666666667vw;
                     height: 4.2666666667vw;
                     margin-left: 1.6vw;
@@ -8973,7 +8973,7 @@
                 }
 
                 .menu .menu-data .newTag[data-v-cdbbeaee] {
-                    background: url(/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
+                    background: url(../_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
                     background-size: 39px 18px;
                     border-radius: 4px;
                     height: 18px;
@@ -9144,7 +9144,7 @@
                 }
 
                 .right .menu-data .newTag[data-v-cdbbeaee] {
-                    background: url(/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
+                    background: url(../_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
                     background-size: 9.0666666667vw 4.2666666667vw;
                     height: 4.2666666667vw;
                     margin-left: 1.6vw;
@@ -9863,7 +9863,7 @@
                 }
 
                 .item-company .newTag[data-v-34548a3e] {
-                    background: url(/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
+                    background: url(../_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
                     background-size: 39px 18px;
                     border-radius: 4px;
                     height: 18px;
@@ -10053,7 +10053,7 @@
                 }
 
                 .menu-left .item-company .newTag[data-v-34548a3e] {
-                    background: url(/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
+                    background: url(../_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
                     background-size: 9.0666666667vw 4.2666666667vw;
                     height: 4.2666666667vw;
                     margin-left: 1.6vw;
@@ -10133,7 +10133,7 @@
                 }
 
                 .demo-banner-app[data-v-2ab77621] {
-                    background: url(/_nuxt/img/bg_banner@1x.4039986.jpg) no-repeat 50%/cover;
+                    background: url(../_nuxt/img/bg_banner@1x.4039986.jpg) no-repeat 50%/cover;
                     min-width: 1200px
                 }
             }
@@ -10580,7 +10580,7 @@
                 }
 
                 .tab-card__right-score-wrapper>li[data-v-6be27fe0] {
-                    background: url(/_nuxt/img/star_sprites.bdf1d63.png) no-repeat 50%;
+                    background: url(../_nuxt/img/star_sprites.bdf1d63.png) no-repeat 50%;
                     background-position: -25px -1px;
                     background-size: 48px 23px;
                     height: 18px;
@@ -10768,13 +10768,13 @@
                 }
 
                 .download-icon[data-v-6be27fe0] {
-                    background: url(/_nuxt/img/icon_code.041160a.png) no-repeat 50%/100%;
+                    background: url(../_nuxt/img/icon_code.041160a.png) no-repeat 50%/100%;
                     height: 44px;
                     width: 44px
                 }
 
                 .apple[data-v-6be27fe0] {
-                    background: url(/_nuxt/img/bg_ios_down@2x.4f13a87.jpg) no-repeat 100%;
+                    background: url(../_nuxt/img/bg_ios_down@2x.4f13a87.jpg) no-repeat 100%;
                     background-size: 220px 56px
                 }
 
@@ -10783,7 +10783,7 @@
                 }
 
                 .android[data-v-6be27fe0] {
-                    background: url(/_nuxt/img/bg_apk_down@2x.ae793b1.jpg) no-repeat 100%;
+                    background: url(../_nuxt/img/bg_apk_down@2x.ae793b1.jpg) no-repeat 100%;
                     background-size: cover
                 }
 
@@ -10806,7 +10806,7 @@
                 }
 
                 .web .download-icon[data-v-6be27fe0] {
-                    background: url(/_nuxt/img/pc_icon_next.1a26293.png) no-repeat 50%/100%
+                    background: url(../_nuxt/img/pc_icon_next.1a26293.png) no-repeat 50%/100%
                 }
 
                 .web[data-v-6be27fe0]:hover {
@@ -10820,7 +10820,7 @@
                 }
 
                 .feature-btn .suffix[data-v-6be27fe0] {
-                    background: url(/_nuxt/img/icon_new.7420159.png) no-repeat 50%/100%;
+                    background: url(../_nuxt/img/icon_new.7420159.png) no-repeat 50%/100%;
                     height: 11px;
                     margin-left: 4px;
                     width: 24px
@@ -11028,7 +11028,7 @@
                 }
 
                 .app-right.hot[data-v-6be27fe0]:before {
-                    background: url(/_nuxt/img/lable_hot.249293f.png) no-repeat 50%/cover;
+                    background: url(../_nuxt/img/lable_hot.249293f.png) no-repeat 50%/cover;
                     content: "";
                     height: 14.9333333333vw;
                     position: absolute;
@@ -11159,17 +11159,17 @@
                 }
 
                 .apple[data-v-6be27fe0] {
-                    background: url(/_nuxt/img/m_bg_ios.a46dad7.png) no-repeat 0;
+                    background: url(../_nuxt/img/m_bg_ios.a46dad7.png) no-repeat 0;
                     background-size: cover
                 }
 
                 .android[data-v-6be27fe0] {
-                    background: url(/_nuxt/img/m_bg_android.bec4a89.png) no-repeat 0;
+                    background: url(../_nuxt/img/m_bg_android.bec4a89.png) no-repeat 0;
                     background-size: cover
                 }
 
                 .download-icon[data-v-6be27fe0] {
-                    background: url(/_nuxt/img/icon_down.c1ead92.png) no-repeat 50%/100%;
+                    background: url(../_nuxt/img/icon_down.c1ead92.png) no-repeat 50%/100%;
                     height: 7.4666666667vw;
                     width: 7.4666666667vw
                 }
@@ -11215,7 +11215,7 @@
                 }
 
                 .feature-btn .suffix[data-v-6be27fe0] {
-                    background: url(/_nuxt/img/icon_new.7420159.png) no-repeat 50%/100%;
+                    background: url(../_nuxt/img/icon_new.7420159.png) no-repeat 50%/100%;
                     height: 2.9333333333vw;
                     margin-left: 1.6vw;
                     width: 6.4vw
@@ -11616,11 +11616,11 @@
             }
 
             .star[data-v-09b47c12] {
-                background: url(/_nuxt/img/icon_comment_star.1f30896.png) no-repeat 50%/cover
+                background: url(../_nuxt/img/icon_comment_star.1f30896.png) no-repeat 50%/cover
             }
 
             .star-light[data-v-09b47c12],.star-row>li[data-v-09b47c12] {
-                background: url(/_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 50%/cover
+                background: url(../_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 50%/cover
             }
 
             .comment-item[data-v-09b47c12] {
@@ -11796,7 +11796,7 @@
                 }
 
                 .star[data-v-09b47c12] {
-                    background: url(/_nuxt/img/icon_comment_star.1f30896.png) no-repeat 0 100%;
+                    background: url(../_nuxt/img/icon_comment_star.1f30896.png) no-repeat 0 100%;
                     background-size: 28px 28px;
                     cursor: pointer;
                     height: 28px;
@@ -11816,7 +11816,7 @@
                 .animate[data-v-09b47c12]:before {
                     -webkit-animation: pointer-move-09b47c12 1.5s linear infinite;
                     animation: pointer-move-09b47c12 1.5s linear infinite;
-                    background: url(/_nuxt/img/pointer.a138d66.png) no-repeat 50%/cover;
+                    background: url(../_nuxt/img/pointer.a138d66.png) no-repeat 50%/cover;
                     content: "";
                     height: 20px;
                     left: 40px;
@@ -11871,50 +11871,50 @@
 
                 @-webkit-keyframes light-09b47c12 {
                     0% {
-                        background: url(/_nuxt/img/icon_comment_star.1f30896.png) no-repeat 0 100%;
+                        background: url(../_nuxt/img/icon_comment_star.1f30896.png) no-repeat 0 100%;
                         background-size: 28px 28px
                     }
 
                     70% {
-                        background: url(/_nuxt/img/icon_comment_star.1f30896.png) no-repeat 0 100%;
+                        background: url(../_nuxt/img/icon_comment_star.1f30896.png) no-repeat 0 100%;
                         background-size: 28px 28px
                     }
 
                     71% {
-                        background: url(/_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 0 100%;
+                        background: url(../_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 0 100%;
                         background-size: 28px 28px
                     }
 
                     to {
-                        background: url(/_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 0 100%;
+                        background: url(../_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 0 100%;
                         background-size: 28px 28px
                     }
                 }
 
                 @keyframes light-09b47c12 {
                     0% {
-                        background: url(/_nuxt/img/icon_comment_star.1f30896.png) no-repeat 0 100%;
+                        background: url(../_nuxt/img/icon_comment_star.1f30896.png) no-repeat 0 100%;
                         background-size: 28px 28px
                     }
 
                     70% {
-                        background: url(/_nuxt/img/icon_comment_star.1f30896.png) no-repeat 0 100%;
+                        background: url(../_nuxt/img/icon_comment_star.1f30896.png) no-repeat 0 100%;
                         background-size: 28px 28px
                     }
 
                     71% {
-                        background: url(/_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 0 100%;
+                        background: url(../_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 0 100%;
                         background-size: 28px 28px
                     }
 
                     to {
-                        background: url(/_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 0 100%;
+                        background: url(../_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 0 100%;
                         background-size: 28px 28px
                     }
                 }
 
                 .star-light[data-v-09b47c12] {
-                    background: url(/_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 0 100%;
+                    background: url(../_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 0 100%;
                     background-size: 28px 28px
                 }
 
@@ -12032,7 +12032,7 @@
                 }
 
                 .star-row li[data-v-09b47c12] {
-                    background: url(/_nuxt/img/icon_comment_star.1f30896.png) no-repeat 50%/cover;
+                    background: url(../_nuxt/img/icon_comment_star.1f30896.png) no-repeat 50%/cover;
                     height: 14px;
                     width: 14px
                 }
@@ -12042,7 +12042,7 @@
                 }
 
                 .star-row .card-star-light[data-v-09b47c12] {
-                    background: url(/_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 50%/cover
+                    background: url(../_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 50%/cover
                 }
 
                 .card-score[data-v-09b47c12] {
@@ -12206,7 +12206,7 @@
                 .animate[data-v-09b47c12]:before {
                     -webkit-animation: pointer-move-09b47c12 1.5s linear infinite;
                     animation: pointer-move-09b47c12 1.5s linear infinite;
-                    background: url(/_nuxt/img/pointer.a138d66.png) no-repeat 50%/cover;
+                    background: url(../_nuxt/img/pointer.a138d66.png) no-repeat 50%/cover;
                     content: "";
                     height: 5.3333333333vw;
                     left: 10.6666666667vw;
@@ -12261,37 +12261,37 @@
 
                 @-webkit-keyframes light-09b47c12 {
                     0% {
-                        background: url(/_nuxt/img/icon_comment_star.1f30896.png) no-repeat 50%/cover
+                        background: url(../_nuxt/img/icon_comment_star.1f30896.png) no-repeat 50%/cover
                     }
 
                     73% {
-                        background: url(/_nuxt/img/icon_comment_star.1f30896.png) no-repeat 50%/cover
+                        background: url(../_nuxt/img/icon_comment_star.1f30896.png) no-repeat 50%/cover
                     }
 
                     74% {
-                        background: url(/_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 50%/cover
+                        background: url(../_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 50%/cover
                     }
 
                     to {
-                        background: url(/_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 50%/cover
+                        background: url(../_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 50%/cover
                     }
                 }
 
                 @keyframes light-09b47c12 {
                     0% {
-                        background: url(/_nuxt/img/icon_comment_star.1f30896.png) no-repeat 50%/cover
+                        background: url(../_nuxt/img/icon_comment_star.1f30896.png) no-repeat 50%/cover
                     }
 
                     73% {
-                        background: url(/_nuxt/img/icon_comment_star.1f30896.png) no-repeat 50%/cover
+                        background: url(../_nuxt/img/icon_comment_star.1f30896.png) no-repeat 50%/cover
                     }
 
                     74% {
-                        background: url(/_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 50%/cover
+                        background: url(../_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 50%/cover
                     }
 
                     to {
-                        background: url(/_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 50%/cover
+                        background: url(../_nuxt/img/icon_comment_star_light.e3edc10.png) no-repeat 50%/cover
                     }
                 }
 
@@ -12505,7 +12505,7 @@
                     align-items: center;
                     -webkit-box-orient: vertical;
                     -webkit-box-direction: normal;
-                    background: url(/_nuxt/img/input_bg.49a3347.jpg) no-repeat 50%/100%;
+                    background: url(../_nuxt/img/input_bg.49a3347.jpg) no-repeat 50%/100%;
                     -webkit-flex-direction: column;
                     -ms-flex-direction: column;
                     flex-direction: column
@@ -12626,7 +12626,7 @@
 
             @media screen and (max-width: 900px) {
                 .input-section[data-v-66ca91ad] {
-                    background:url(/_nuxt/img/input_bg_m.b688c31.jpg) no-repeat 50%/cover;
+                    background:url(../_nuxt/img/input_bg_m.b688c31.jpg) no-repeat 50%/cover;
                     -webkit-box-sizing: border-box;
                     box-sizing: border-box;
                     padding: 11.7333333333vw 5.3333333333vw 24vw;
@@ -12977,7 +12977,7 @@
             }
 
             .left-info .talk-us-about .item[data-v-775d2989] {
-                background: url(/_nuxt/img/sprites.f46be02.png) no-repeat;
+                background: url(../_nuxt/img/sprites.f46be02.png) no-repeat;
                 background-size: 192px auto;
                 cursor: pointer;
                 display: block;

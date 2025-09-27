@@ -305,7 +305,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
   <script src="<?php echo THEME_URL?>js/wow.min.js"></script>
-  <script src="<?php echo THEME_URL?>js/taxcare.js"></script>
+  <script src="<?php echo THEME_URL?>js/taxcare.js?ver=<?= time();?>"></script>
   <script src="<?php echo THEME_URL?>js/custom.js?ver=<?= time();?>"></script>
     </body>
 </html>

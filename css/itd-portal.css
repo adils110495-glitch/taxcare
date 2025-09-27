@@ -11105,7 +11105,7 @@
 
             @media screen and (min-width: 901px) {
                 .select-support[data-v-52ef33dc] {
-                    background:url(/_nuxt/img/img_footer_bg@2x.5c0132b.jpg) no-repeat top/cover;
+                    /* background:url(/_nuxt/img/img_footer_bg@2x.5c0132b.jpg) no-repeat top/cover; */
                     min-width: 1200px
                 }
 
@@ -11148,7 +11148,7 @@
                 }
 
                 .btn[data-v-52ef33dc] {
-                    background: url(/_nuxt/img/pc_bg@2x.828a884.png) no-repeat 50%/cover;
+                    /* background: url(/_nuxt/img/pc_bg@2x.828a884.png) no-repeat 50%/cover; */
                     color: #fff;
                     cursor: pointer;
                     font-family: Poppins-Medium,Poppins;
@@ -11170,7 +11170,7 @@
 
             @media screen and (max-width: 900px) {
                 .select-support[data-v-52ef33dc] {
-                    background:url(/_nuxt/img/m_bg_nextstep@2x.76415d9.jpg) no-repeat 50%/cover;
+                    /* background:url(/_nuxt/img/m_bg_nextstep@2x.76415d9.jpg) no-repeat 50%/cover; */
                     padding: 10.6666666667vw 0 16vw
                 }
 
@@ -11213,7 +11213,7 @@
                 }
 
                 .btn[data-v-52ef33dc] {
-                    background: url(/_nuxt/img/bg@2x.5cc551a.png) no-repeat 50%/cover;
+                    /* background: url(/_nuxt/img/bg@2x.5cc551a.png) no-repeat 50%/cover; */
                     color: #fff;
                     font-family: Poppins-Medium,Poppins;
                     font-size: 4.2666666667vw;
