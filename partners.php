@@ -92,59 +92,7 @@ include('include/header.php');
                             <div class="talk-us-form" data-v-11d3275c data-v-459bdfea>
                                 <div class="talk-container" data-v-11d3275c>
                                     <form target="iframe" class="el-form official-form-07-08" data-v-11d3275c>
-                                        <div class="el-form-item is-required" data-v-11d3275c>
-                                            <label for="partnership" class="el-form-item__label">New Influence Pic at last</label>
-                                            <div class="el-form-item__content">
-                                                <div class="el-select" data-v-11d3275c>
-                                                    <!---->
-                                                    <div class="el-input el-input--suffix">
-                                                        <!---->
-                                                        <input readonly autocomplete="off" placeholder="Select partnership type" name="Partnership Type" class="el-input__inner">
-                                                        <!---->
-                                                        <span class="el-input__suffix">
-                                                            <span class="el-input__suffix-inner">
-                                                                <i class="el-select__caret el-input__icon el-icon-arrow-up"></i>
-                                                                <!---->
-                                                                <!---->
-                                                                <!---->
-                                                                <!---->
-                                                                <!---->
-                                                            </span>
-                                                            <!---->
-                                                        </span>
-                                                        <!---->
-                                                        <!---->
-                                                    </div>
-                                                    <div class="el-select-dropdown el-popper" style="display:none">
-                                                        <div class="el-scrollbar" style="display:none">
-                                                            <div class="el-select-dropdown__wrap el-scrollbar__wrap el-scrollbar__wrap--hidden-default">
-                                                                <ul class="el-scrollbar__view el-select-dropdown__list">
-                                                                    <!---->
-                                                                    <li class="el-select-dropdown__item" data-v-11d3275c>
-                                                                        <span>Development Partner</span>
-                                                                    </li>
-                                                                    <li class="el-select-dropdown__item" data-v-11d3275c>
-                                                                        <span>Technology Partner</span>
-                                                                    </li>
-                                                                    <li class="el-select-dropdown__item" data-v-11d3275c>
-                                                                        <span>Reseller Partner</span>
-                                                                    </li>
-                                                                </ul>
-                                                            </div>
-                                                            <div class="el-scrollbar__bar is-horizontal">
-                                                                <div class="el-scrollbar__thumb" style="width:0;transform:translateX(0);ms-transform:translateX(0);webkit-transform:translateX(0)"></div>
-                                                            </div>
-                                                            <div class="el-scrollbar__bar is-vertical">
-                                                                <div class="el-scrollbar__thumb" style="height:0;transform:translateY(0);ms-transform:translateY(0);webkit-transform:translateY(0)"></div>
-                                                            </div>
-                                                        </div>
-                                                        <p class="el-select-dropdown__empty">无数据
-        </p>
-                                                    </div>
-                                                </div>
-                                                <!---->
-                                            </div>
-                                        </div>
+                                        
                                         <div class="tow-items-container name-items" data-v-11d3275c>
                                             <div class="el-form-item is-required" data-v-11d3275c>
                                                 <label for="firstName" class="el-form-item__label">Name Enter your name</label>
@@ -161,11 +109,11 @@ include('include/header.php');
                                                 </div>
                                             </div>
                                             <div class="el-form-item is-required" data-v-11d3275c>
-                                                <label for="lastName" class="el-form-item__label">Last name</label>
+                                                <label for="lastName" class="el-form-item__label">Email  Enter your mail Id                                                </label>
                                                 <div class="el-form-item__content">
                                                     <div class="el-input" data-v-11d3275c>
                                                         <!---->
-                                                        <input autocomplete="off" name="Last name" maxlength="20" placeholder="Enter last name" class="el-input__inner">
+                                                        <input type="email" autocomplete="off" name="email"  placeholder="example@gmail.com" class="el-input__inner">
                                                         <!---->
                                                         <!---->
                                                         <!---->
@@ -173,145 +121,17 @@ include('include/header.php');
                                                     </div>
                                                     <!---->
                                                 </div>
-                                            </div>
-                                        </div>
-                                        <div class="tow-items-container name-items" data-v-11d3275c>
-                                            <div class="el-form-item country-item is-required" data-v-11d3275c>
-                                                <label for="country" class="el-form-item__label">Country/Region</label>
-                                                <div class="el-form-item__content">
-                                                    <div class="country" data-v-11d3275c>
-                                                        <div class="country-code" data-v-3ec0cd6d data-v-11d3275c>
-                                                            <div class="country-info" data-v-3ec0cd6d>
-                                                                <div class="country-code-input countryActive countryColor" data-v-3ec0cd6d>
-                                                                    <span data-v-3ec0cd6d>Select a country/region</span>
-                                                                </div>
-                                                                <!---->
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <!---->
-                                                    <!---->
-                                                </div>
-                                            </div>
-                                            <div class="el-form-item is-required" data-v-11d3275c>
-                                                <label for="jobTitle" class="el-form-item__label">Job title</label>
-                                                <div class="el-form-item__content">
-                                                    <div class="el-select" data-v-11d3275c>
-                                                        <!---->
-                                                        <div class="el-input el-input--suffix">
-                                                            <!---->
-                                                            <input readonly autocomplete="off" placeholder="Select a job title " name="Job title" class="el-input__inner">
-                                                            <!---->
-                                                            <span class="el-input__suffix">
-                                                                <span class="el-input__suffix-inner">
-                                                                    <i class="el-select__caret el-input__icon el-icon-arrow-up"></i>
-                                                                    <!---->
-                                                                    <!---->
-                                                                    <!---->
-                                                                    <!---->
-                                                                    <!---->
-                                                                </span>
-                                                                <!---->
-                                                            </span>
-                                                            <!---->
-                                                            <!---->
-                                                        </div>
-                                                        <div class="el-select-dropdown el-popper" style="display:none">
-                                                            <div class="el-scrollbar" style="display:none">
-                                                                <div class="el-select-dropdown__wrap el-scrollbar__wrap el-scrollbar__wrap--hidden-default">
-                                                                    <ul class="el-scrollbar__view el-select-dropdown__list">
-                                                                        <!---->
-                                                                        <li class="el-select-dropdown__item" data-v-11d3275c>
-                                                                            <span>C level / Founder</span>
-                                                                        </li>
-                                                                        <li class="el-select-dropdown__item" data-v-11d3275c>
-                                                                            <span>Director of team</span>
-                                                                        </li>
-                                                                        <li class="el-select-dropdown__item" data-v-11d3275c>
-                                                                            <span>Engineering</span>
-                                                                        </li>
-                                                                        <li class="el-select-dropdown__item" data-v-11d3275c>
-                                                                            <span>Product manager</span>
-                                                                        </li>
-                                                                        <li class="el-select-dropdown__item" data-v-11d3275c>
-                                                                            <span>Individual developer</span>
-                                                                        </li>
-                                                                        <li class="el-select-dropdown__item" data-v-11d3275c>
-                                                                            <span>Student</span>
-                                                                        </li>
-                                                                        <li class="el-select-dropdown__item" data-v-11d3275c>
-                                                                            <span>Other</span>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                                <div class="el-scrollbar__bar is-horizontal">
-                                                                    <div class="el-scrollbar__thumb" style="width:0;transform:translateX(0);ms-transform:translateX(0);webkit-transform:translateX(0)"></div>
-                                                                </div>
-                                                                <div class="el-scrollbar__bar is-vertical">
-                                                                    <div class="el-scrollbar__thumb" style="height:0;transform:translateY(0);ms-transform:translateY(0);webkit-transform:translateY(0)"></div>
-                                                                </div>
-                                                            </div>
-                                                            <p class="el-select-dropdown__empty">无数据
-        </p>
-                                                        </div>
-                                                    </div>
-                                                    <!---->
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="tow-items-container name-items" data-v-11d3275c>
-                                            <div class="el-form-item is-required" data-v-11d3275c>
-                                                <label for="companyName" class="el-form-item__label">Company name</label>
-                                                <div class="el-form-item__content">
-                                                    <div class="el-input" data-v-11d3275c>
-                                                        <!---->
-                                                        <input autocomplete="off" name="Company Name" maxlength="100" placeholder="Enter company name" class="el-input__inner">
-                                                        <!---->
-                                                        <!---->
-                                                        <!---->
-                                                        <!---->
-                                                    </div>
-                                                    <!---->
-                                                </div>
-                                            </div>
-                                            <div class="el-form-item" data-v-11d3275c>
-                                                <label for="companyWebsite" class="el-form-item__label">Company Website</label>
-                                                <div class="el-form-item__content">
-                                                    <div class="el-input" data-v-11d3275c>
-                                                        <!---->
-                                                        <input autocomplete="off" name="Company Website" placeholder="Enter company website" maxlength="100" class="el-input__inner">
-                                                        <!---->
-                                                        <!---->
-                                                        <!---->
-                                                        <!---->
-                                                    </div>
-                                                    <!---->
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="el-form-item is-required" data-v-11d3275c>
-                                            <label for="emailAddress" class="el-form-item__label">Email  Enter your mail Id</label>
-                                            <div class="el-form-item__content">
-                                                <div class="el-input" data-v-11d3275c>
-                                                    <!---->
-                                                    <input type="email" autocomplete="off" name="email" maxlength="45" placeholder="name@email.com" class="el-input__inner">
-                                                    <!---->
-                                                    <!---->
-                                                    <!---->
-                                                    <!---->
-                                                </div>
-                                                <!---->
                                             </div>
                                         </div>
                                         <div class="Phone-number" data-v-11d3275c>
                                             <div class="el-form-item error-right is-required" data-v-11d3275c>
-                                                <label for="primaryContactNumber" class="el-form-item__label">Enter you WhatsApp number</label>
+                                                <label for="primaryContactNumber" class="el-form-item__label">Enter you phone number</label>
                                                 <div class="el-form-item__content">
                                                     <div class="contact-number-row" data-v-11d3275c>
                                                         <div class="country-code" data-v-3ec0cd6d data-v-11d3275c>
                                                             <div class="country-info" data-v-3ec0cd6d>
                                                                 <div class="country-code-input countryColor" data-v-3ec0cd6d>
-                                                                    <span data-v-3ec0cd6d>+1</span>
+                                                                    <span data-v-3ec0cd6d>+91</span>
                                                                 </div>
                                                                 <!---->
                                                             </div>
@@ -329,64 +149,8 @@ include('include/header.php');
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="el-form-item contact-items is-required" data-v-11d3275c>
-                                            <label for="descriptionOneself" class="el-form-item__label">Tell us more Please provide more information</label>
-                                            <div class="el-form-item__content">
-                                                <div class="el-select" data-v-11d3275c>
-                                                    <!---->
-                                                    <div class="el-input el-input--suffix">
-                                                        <!---->
-                                                        <input readonly autocomplete="off" placeholder="Select the best one" name="What best describe you?" class="el-input__inner">
-                                                        <!---->
-                                                        <span class="el-input__suffix">
-                                                            <span class="el-input__suffix-inner">
-                                                                <i class="el-select__caret el-input__icon el-icon-arrow-up"></i>
-                                                                <!---->
-                                                                <!---->
-                                                                <!---->
-                                                                <!---->
-                                                                <!---->
-                                                            </span>
-                                                            <!---->
-                                                        </span>
-                                                        <!---->
-                                                        <!---->
-                                                    </div>
-                                                    <div class="el-select-dropdown el-popper" style="display:none">
-                                                        <div class="el-scrollbar" style="display:none">
-                                                            <div class="el-select-dropdown__wrap el-scrollbar__wrap el-scrollbar__wrap--hidden-default">
-                                                                <ul class="el-scrollbar__view el-select-dropdown__list">
-                                                                    <!---->
-                                                                    <li class="el-select-dropdown__item" data-v-11d3275c>
-                                                                        <span>My project is in preparation / in pre-funding stage</span>
-                                                                    </li>
-                                                                    <li class="el-select-dropdown__item" data-v-11d3275c>
-                                                                        <span>My app is ready to go live / already in live</span>
-                                                                    </li>
-                                                                    <li class="el-select-dropdown__item" data-v-11d3275c>
-                                                                        <span>I am building app for enterprise customers</span>
-                                                                    </li>
-                                                                    <li class="el-select-dropdown__item" data-v-11d3275c>
-                                                                        <span>I am a student and doing research for my project</span>
-                                                                    </li>
-                                                                </ul>
-                                                            </div>
-                                                            <div class="el-scrollbar__bar is-horizontal">
-                                                                <div class="el-scrollbar__thumb" style="width:0;transform:translateX(0);ms-transform:translateX(0);webkit-transform:translateX(0)"></div>
-                                                            </div>
-                                                            <div class="el-scrollbar__bar is-vertical">
-                                                                <div class="el-scrollbar__thumb" style="height:0;transform:translateY(0);ms-transform:translateY(0);webkit-transform:translateY(0)"></div>
-                                                            </div>
-                                                        </div>
-                                                        <p class="el-select-dropdown__empty">无数据
-        </p>
-                                                    </div>
-                                                </div>
-                                                <!---->
-                                            </div>
-                                        </div>
                                         <div class="el-form-item is-required" data-v-11d3275c>
-                                            <label for="inquiry" class="el-form-item__label">How may we help you?</label>
+                                            <label for="inquiry" class="el-form-item__label">Tell us more Please provide more information</label>
                                             <div class="el-form-item__content">
                                                 <div class="el-textarea" data-v-11d3275c>
                                                     <textarea autocomplete="off" name="How_help" placeholder="I prefer to learn more about the solution." maxlength="500" class="el-textarea__inner" style="resize:none"></textarea>
@@ -403,12 +167,10 @@ include('include/header.php');
                                                         <span class="el-checkbox__inner"></span>
                                                         <input type="checkbox" aria-hidden="false" name="Agreement to MKT" class="el-checkbox__original">
                                                     </span>
-                                                    <span class="el-checkbox__label">I want to receive product updates, marketing news, and other relevant content by email from Taxcare.(Optional Select) 
-          ZEGOCLOUD.
-                                                    <!---->
+                                                    <span class="el-checkbox__label">
+        I want to receive product updates, marketing news, and other relevant content by email from Taxcare.(Optional Select) 
                                                     </span>
                                                 </label>
-                                                <!---->
                                             </div>
                                         </div>
                                         <div class="el-form-item check-items is-required" data-v-11d3275c>
@@ -420,41 +182,13 @@ include('include/header.php');
                                                         <input type="checkbox" aria-hidden="false" class="el-checkbox__original">
                                                     </span>
                                                     <span class="el-checkbox__label">
-                                                        I have read and agreed to Taxcare's Terms of Service and Privacy Policy. <a href="/terms-of-service" data-v-11d3275c>Terms of Service</a>
+                                                        I have read and agreed to Taxcare's Terms of Service and Privacy Policy. <a href="<?= THEME_URL?>meta//terms-n-conditions" data-v-11d3275c>Terms of Service</a>
                                                         and
-          <a href="/privacy-policy" data-v-11d3275c>Privacy Policy</a>
+          <a href="<?= THEME_URL?>meta/privacy-policy" data-v-11d3275c>Privacy Policy</a>
                                                         .
                                                         <!---->
                                                     </span>
                                                 </label>
-                                                <!---->
-                                            </div>
-                                        </div>
-                                        <div class="el-form-item" style="display:none" data-v-11d3275c>
-                                            <label class="el-form-item__label">Phone number</label>
-                                            <div class="el-form-item__content">
-                                                <div class="el-input" data-v-11d3275c>
-                                                    <!---->
-                                                    <input type="phone" autocomplete="off" name="Phone number" class="el-input__inner">
-                                                    <!---->
-                                                    <!---->
-                                                    <!---->
-                                                    <!---->
-                                                </div>
-                                                <!---->
-                                            </div>
-                                        </div>
-                                        <div class="el-form-item" style="display:none" data-v-11d3275c>
-                                            <label class="el-form-item__label">Country/Region</label>
-                                            <div class="el-form-item__content">
-                                                <div class="el-input" data-v-11d3275c>
-                                                    <!---->
-                                                    <input type="phone" autocomplete="off" name="Country/Region" class="el-input__inner">
-                                                    <!---->
-                                                    <!---->
-                                                    <!---->
-                                                    <!---->
-                                                </div>
                                                 <!---->
                                             </div>
                                         </div>
@@ -467,8 +201,7 @@ include('include/header.php');
                                         </button>
                                     </form>
                                 </div>
-                                <iframe id="frame" name="iframe" style="display:none" data-v-11d3275c></iframe>
-                            </div>
+                             </div>
                         </div>
                     </div>
 <?php

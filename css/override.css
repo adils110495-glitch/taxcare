@@ -1,3 +1,6 @@
+html, body{
+    overflow-x: hidden !important;
+}
 .solutions-item-title{
     color:#0f1623;
 }
@@ -567,4 +570,7 @@
     .mobile-submenu-item {
         padding: 12px 15px 12px 30px;
     }
+}
+.container{
+    background: transparent;
 }

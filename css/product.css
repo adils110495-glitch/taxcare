@@ -285,8 +285,8 @@
                 font-family: Poppins-Light;
                 font-style: normal;
                 font-weight: 300;
-                src: url(/_nuxt/fonts/poppins-v20-latin-300.1c059ad.eot);
-                src: local(""),url(/_nuxt/fonts/poppins-v20-latin-300.1c059ad.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/poppins-v20-latin-300.39576fe.woff2) format("woff2"),url(/_nuxt/fonts/poppins-v20-latin-300.5558b04.woff) format("woff"),url(/_nuxt/fonts/poppins-v20-latin-300.6cc700a.ttf) format("truetype")
+                src: url(/taxcare/_nuxt/fonts/poppins-v20-latin-300.1c059ad.eot);
+                src: local(""),url(/taxcare/_nuxt/fonts/poppins-v20-latin-300.1c059ad.eot?#iefix) format("embedded-opentype"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-300.39576fe.woff2) format("woff2"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-300.5558b04.woff) format("woff"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-300.6cc700a.ttf) format("truetype")
             }
 
             @font-face {
@@ -294,8 +294,8 @@
                 font-family: Poppins-Regular;
                 font-style: normal;
                 font-weight: 400;
-                src: url(/_nuxt/fonts/poppins-v20-latin-regular.27a38aa.eot);
-                src: local(""),url(/_nuxt/fonts/poppins-v20-latin-regular.27a38aa.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/poppins-v20-latin-regular.405055d.woff2) format("woff2"),url(/_nuxt/fonts/poppins-v20-latin-regular.f61407d.woff) format("woff"),url(/_nuxt/fonts/poppins-v20-latin-regular.80946c0.ttf) format("truetype"),url(/_nuxt/img/poppins-v20-latin-regular.04277a7.svg#Poppins) format("svg")
+                src: url(/taxcare/_nuxt/fonts/poppins-v20-latin-regular.27a38aa.eot);
+                src: local(""),url(/taxcare/_nuxt/fonts/poppins-v20-latin-regular.27a38aa.eot?#iefix) format("embedded-opentype"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-regular.405055d.woff2) format("woff2"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-regular.f61407d.woff) format("woff"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-regular.80946c0.ttf) format("truetype"),url(/taxcare/_nuxt/img/poppins-v20-latin-regular.04277a7.svg#Poppins) format("svg")
             }
 
             @font-face {
@@ -303,8 +303,8 @@
                 font-family: Poppins;
                 font-style: normal;
                 font-weight: 500;
-                src: url(/_nuxt/fonts/poppins-v20-latin-500.7caad43.eot);
-                src: local(""),url(/_nuxt/fonts/poppins-v20-latin-500.7caad43.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/poppins-v20-latin-500.08491d3.woff2) format("woff2"),url(/_nuxt/fonts/poppins-v20-latin-500.8609f9c.woff) format("woff"),url(/_nuxt/fonts/poppins-v20-latin-500.c5bf954.ttf) format("truetype"),url(/_nuxt/img/poppins-v20-latin-500.138d54d.svg#Poppins) format("svg")
+                src: url(/taxcare/_nuxt/fonts/poppins-v20-latin-500.7caad43.eot);
+                src: local(""),url(/taxcare/_nuxt/fonts/poppins-v20-latin-500.7caad43.eot?#iefix) format("embedded-opentype"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-500.08491d3.woff2) format("woff2"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-500.8609f9c.woff) format("woff"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-500.c5bf954.ttf) format("truetype"),url(/taxcare/_nuxt/img/poppins-v20-latin-500.138d54d.svg#Poppins) format("svg")
             }
 
             @font-face {
@@ -312,8 +312,8 @@
                 font-family: Poppins-Medium;
                 font-style: normal;
                 font-weight: 500;
-                src: url(/_nuxt/fonts/poppins-v20-latin-500.7caad43.eot);
-                src: local(""),url(/_nuxt/fonts/poppins-v20-latin-500.7caad43.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/poppins-v20-latin-500.08491d3.woff2) format("woff2"),url(/_nuxt/fonts/poppins-v20-latin-500.8609f9c.woff) format("woff"),url(/_nuxt/fonts/poppins-v20-latin-500.c5bf954.ttf) format("truetype"),url(/_nuxt/img/poppins-v20-latin-500.138d54d.svg#Poppins) format("svg")
+                src: url(/taxcare/_nuxt/fonts/poppins-v20-latin-500.7caad43.eot);
+                src: local(""),url(/taxcare/_nuxt/fonts/poppins-v20-latin-500.7caad43.eot?#iefix) format("embedded-opentype"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-500.08491d3.woff2) format("woff2"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-500.8609f9c.woff) format("woff"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-500.c5bf954.ttf) format("truetype"),url(/taxcare/_nuxt/img/poppins-v20-latin-500.138d54d.svg#Poppins) format("svg")
             }
 
             @font-face {
@@ -321,8 +321,8 @@
                 font-family: Poppins-SemiBold;
                 font-style: normal;
                 font-weight: 600;
-                src: url(/_nuxt/fonts/poppins-v20-latin-600.055c17a.eot);
-                src: local(""),url(/_nuxt/fonts/poppins-v20-latin-600.055c17a.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/poppins-v20-latin-600.9114501.woff2) format("woff2"),url(/_nuxt/fonts/poppins-v20-latin-600.25ea813.woff) format("woff"),url(/_nuxt/fonts/poppins-v20-latin-600.fbef39d.ttf) format("truetype"),url(/_nuxt/img/poppins-v20-latin-600.604adf2.svg#Poppins) format("svg")
+                src: url(/taxcare/_nuxt/fonts/poppins-v20-latin-600.055c17a.eot);
+                src: local(""),url(/taxcare/_nuxt/fonts/poppins-v20-latin-600.055c17a.eot?#iefix) format("embedded-opentype"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-600.9114501.woff2) format("woff2"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-600.25ea813.woff) format("woff"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-600.fbef39d.ttf) format("truetype"),url(/taxcare/_nuxt/img/poppins-v20-latin-600.604adf2.svg#Poppins) format("svg")
             }
 
             @font-face {
@@ -330,8 +330,8 @@
                 font-family: Poppins-Bold;
                 font-style: normal;
                 font-weight: 700;
-                src: url(/_nuxt/fonts/poppins-v20-latin-700.f808204.eot);
-                src: local(""),url(/_nuxt/fonts/poppins-v20-latin-700.f808204.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/poppins-v20-latin-700.d86662f.woff2) format("woff2"),url(/_nuxt/fonts/poppins-v20-latin-700.c54a526.woff) format("woff"),url(/_nuxt/fonts/poppins-v20-latin-700.6937676.ttf) format("truetype"),url(/_nuxt/img/poppins-v20-latin-700.faf69e7.svg#Poppins) format("svg")
+                src: url(/taxcare/_nuxt/fonts/poppins-v20-latin-700.f808204.eot);
+                src: local(""),url(/taxcare/_nuxt/fonts/poppins-v20-latin-700.f808204.eot?#iefix) format("embedded-opentype"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-700.d86662f.woff2) format("woff2"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-700.c54a526.woff) format("woff"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-700.6937676.ttf) format("truetype"),url(/taxcare/_nuxt/img/poppins-v20-latin-700.faf69e7.svg#Poppins) format("svg")
             }
 
             @font-face {
@@ -339,8 +339,8 @@
                 font-family: Poppins-Black;
                 font-style: normal;
                 font-weight: 900;
-                src: url(/_nuxt/fonts/poppins-v20-latin-900.581e4c6.eot);
-                src: local(""),url(/_nuxt/fonts/poppins-v20-latin-900.581e4c6.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/poppins-v20-latin-900.7b1a4c8.woff2) format("woff2"),url(/_nuxt/fonts/poppins-v20-latin-900.e9a4612.woff) format("woff"),url(/_nuxt/fonts/poppins-v20-latin-900.e77fbe7.ttf) format("truetype"),url(/_nuxt/img/poppins-v20-latin-900.b44b73b.svg#Poppins) format("svg")
+                src: url(/taxcare/_nuxt/fonts/poppins-v20-latin-900.581e4c6.eot);
+                src: local(""),url(/taxcare/_nuxt/fonts/poppins-v20-latin-900.581e4c6.eot?#iefix) format("embedded-opentype"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-900.7b1a4c8.woff2) format("woff2"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-900.e9a4612.woff) format("woff"),url(/taxcare/_nuxt/fonts/poppins-v20-latin-900.e77fbe7.ttf) format("truetype"),url(/taxcare/_nuxt/img/poppins-v20-latin-900.b44b73b.svg#Poppins) format("svg")
             }
 
             @font-face {
@@ -348,8 +348,8 @@
                 font-family: RobotoMono-Regular;
                 font-style: normal;
                 font-weight: 400;
-                src: url(/_nuxt/fonts/roboto-mono-v21-latin-regular.37ff2a2.eot);
-                src: local(""),url(/_nuxt/fonts/roboto-mono-v21-latin-regular.37ff2a2.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/roboto-mono-v21-latin-regular.535bc89.woff2) format("woff2"),url(/_nuxt/fonts/roboto-mono-v21-latin-regular.498042b.woff) format("woff"),url(/_nuxt/fonts/roboto-mono-v21-latin-regular.1b6f747.ttf) format("truetype"),url(/_nuxt/img/roboto-mono-v21-latin-regular.b857c1f.svg#RobotoMono) format("svg")
+                src: url(/taxcare/_nuxt/fonts/roboto-mono-v21-latin-regular.37ff2a2.eot);
+                src: local(""),url(/taxcare/_nuxt/fonts/roboto-mono-v21-latin-regular.37ff2a2.eot?#iefix) format("embedded-opentype"),url(/taxcare/_nuxt/fonts/roboto-mono-v21-latin-regular.535bc89.woff2) format("woff2"),url(/taxcare/_nuxt/fonts/roboto-mono-v21-latin-regular.498042b.woff) format("woff"),url(/taxcare/_nuxt/fonts/roboto-mono-v21-latin-regular.1b6f747.ttf) format("truetype"),url(/taxcare/_nuxt/img/roboto-mono-v21-latin-regular.b857c1f.svg#RobotoMono) format("svg")
             }
 
             @font-face {
@@ -357,8 +357,8 @@
                 font-family: RobotoMono-Medium;
                 font-style: normal;
                 font-weight: 500;
-                src: url(/_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot);
-                src: local(""),url(/_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/roboto-mono-v21-latin-500.c1f1736.woff2) format("woff2"),url(/_nuxt/fonts/roboto-mono-v21-latin-500.2ed4651.woff) format("woff"),url(/_nuxt/fonts/roboto-mono-v21-latin-500.e6e6cf2.ttf) format("truetype"),url(/_nuxt/img/roboto-mono-v21-latin-500.2a6beae.svg#RobotoMono) format("svg")
+                src: url(/taxcare/_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot);
+                src: local(""),url(/taxcare/_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot?#iefix) format("embedded-opentype"),url(/taxcare/_nuxt/fonts/roboto-mono-v21-latin-500.c1f1736.woff2) format("woff2"),url(/taxcare/_nuxt/fonts/roboto-mono-v21-latin-500.2ed4651.woff) format("woff"),url(/taxcare/_nuxt/fonts/roboto-mono-v21-latin-500.e6e6cf2.ttf) format("truetype"),url(/taxcare/_nuxt/img/roboto-mono-v21-latin-500.2a6beae.svg#RobotoMono) format("svg")
             }
 
             @font-face {
@@ -366,8 +366,8 @@
                 font-family: RobotoMono;
                 font-style: normal;
                 font-weight: 500;
-                src: url(/_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot);
-                src: local(""),url(/_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot?#iefix) format("embedded-opentype"),url(/_nuxt/fonts/roboto-mono-v21-latin-500.c1f1736.woff2) format("woff2"),url(/_nuxt/fonts/roboto-mono-v21-latin-500.2ed4651.woff) format("woff"),url(/_nuxt/fonts/roboto-mono-v21-latin-500.e6e6cf2.ttf) format("truetype"),url(/_nuxt/img/roboto-mono-v21-latin-500.2a6beae.svg#RobotoMono) format("svg")
+                src: url(/taxcare/_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot);
+                src: local(""),url(/taxcare/_nuxt/fonts/roboto-mono-v21-latin-500.4acceaf.eot?#iefix) format("embedded-opentype"),url(/taxcare/_nuxt/fonts/roboto-mono-v21-latin-500.c1f1736.woff2) format("woff2"),url(/taxcare/_nuxt/fonts/roboto-mono-v21-latin-500.2ed4651.woff) format("woff"),url(/taxcare/_nuxt/fonts/roboto-mono-v21-latin-500.e6e6cf2.ttf) format("truetype"),url(/taxcare/_nuxt/img/roboto-mono-v21-latin-500.2a6beae.svg#RobotoMono) format("svg")
             }
 
             @font-face {
@@ -375,7 +375,7 @@
                 font-family: DM Mono;
                 font-style: normal;
                 font-weight: 300;
-                src: url(/_nuxt/fonts/DMMono-Light.2cf6d0b.ttf) format("truetype")
+                src: url(/taxcare/_nuxt/fonts/DMMono-Light.2cf6d0b.ttf) format("truetype")
             }
 
             @font-face {
@@ -383,7 +383,7 @@
                 font-family: DM Mono;
                 font-style: normal;
                 font-weight: 400;
-                src: url(/_nuxt/fonts/DMMono-Regular.15edd89.ttf) format("truetype")
+                src: url(/taxcare/_nuxt/fonts/DMMono-Regular.15edd89.ttf) format("truetype")
             }
 
             @font-face {
@@ -391,7 +391,7 @@
                 font-family: DM Mono;
                 font-style: normal;
                 font-weight: 500;
-                src: url(/_nuxt/fonts/DMMono-Medium.50d7af0.ttf) format("truetype")
+                src: url(/taxcare/_nuxt/fonts/DMMono-Medium.50d7af0.ttf) format("truetype")
             }
 
             @font-face {
@@ -399,14 +399,14 @@
                 font-family: Monaco;
                 font-style: normal;
                 font-weight: 400;
-                src: url(/_nuxt/fonts/Monaco.b639622.ttf) format("truetype")
+                src: url(/taxcare/_nuxt/fonts/Monaco.b639622.ttf) format("truetype")
             }
 
             @font-face {
                 font-display: swap;
                 font-family: DingTalk JinBuTi;
                 font-style: normal;
-                src: url(/_nuxt/fonts/DingTalk-JinBuTi.a0bb3c3.ttf) format("truetype")
+                src: url(/taxcare/_nuxt/fonts/DingTalk-JinBuTi.a0bb3c3.ttf) format("truetype")
             }
 
             @font-face {
@@ -1338,7 +1338,7 @@
                 font-family: element-icons;
                 font-style: normal;
                 font-weight: 400;
-                src: url(/_nuxt/fonts/element-icons.313f7da.woff) format("woff"),url(/_nuxt/fonts/element-icons.4520188.ttf) format("truetype")
+                src: url(/taxcare/_nuxt/fonts/element-icons.313f7da.woff) format("woff"),url(/taxcare/_nuxt/fonts/element-icons.4520188.ttf) format("truetype")
             }
 
             [class*=" el-icon-"],[class^=el-icon-] {
@@ -8411,7 +8411,7 @@
                 }
 
                 .item-solutions .solutions-item-title .newTag[data-v-6ccd7fd0] {
-                    background: url(/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
+                    background: url(/taxcare/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
                     background-size: 39px 18px;
                     border-radius: 4px;
                     display: block;
@@ -8630,7 +8630,7 @@
                 }
 
                 .menu-left .item-solutions .solutions-item-title .newTag[data-v-6ccd7fd0] {
-                    background: url(/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
+                    background: url(/taxcare/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
                     background-size: 9.0666666667vw 4.2666666667vw;
                     height: 4.2666666667vw;
                     margin-left: 1.6vw;
@@ -8973,7 +8973,7 @@
                 }
 
                 .menu .menu-data .newTag[data-v-cdbbeaee] {
-                    background: url(/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
+                    background: url(/taxcare/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
                     background-size: 39px 18px;
                     border-radius: 4px;
                     height: 18px;
@@ -9144,7 +9144,7 @@
                 }
 
                 .right .menu-data .newTag[data-v-cdbbeaee] {
-                    background: url(/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
+                    background: url(/taxcare/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
                     background-size: 9.0666666667vw 4.2666666667vw;
                     height: 4.2666666667vw;
                     margin-left: 1.6vw;
@@ -9863,7 +9863,7 @@
                 }
 
                 .item-company .newTag[data-v-34548a3e] {
-                    background: url(/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
+                    background: url(/taxcare/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
                     background-size: 39px 18px;
                     border-radius: 4px;
                     height: 18px;
@@ -10053,7 +10053,7 @@
                 }
 
                 .menu-left .item-company .newTag[data-v-34548a3e] {
-                    background: url(/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
+                    background: url(/taxcare/_nuxt/img/icon_new@2x.c776a3b.png) no-repeat;
                     background-size: 9.0666666667vw 4.2666666667vw;
                     height: 4.2666666667vw;
                     margin-left: 1.6vw;
@@ -10298,7 +10298,7 @@
                 }
 
                 #video-call[data-v-b324c596] .data-line {
-                    background: url(/_nuxt/img/bg_data@2x.00404ad.jpg) no-repeat 50%/cover
+                    background: url(/taxcare/_nuxt/img/bg_data@2x.00404ad.jpg) no-repeat 50%/cover
                 }
 
                 #video-call[data-v-b324c596] .data-line .container {
@@ -10992,7 +10992,7 @@
                 }
 
                 .banner .btn-build[data-v-7bbac17a]:after {
-                    background: url(/_nuxt/img/icon_code_right@2x.cf81a9c.png) no-repeat 50%/cover;
+                    background: url(/taxcare/_nuxt/img/icon_code_right@2x.cf81a9c.png) no-repeat 50%/cover;
                     right: 24px
                 }
 
@@ -11337,7 +11337,7 @@
 
             @media screen and (min-width: 901px) {
                 .data-line[data-v-4c848211] {
-                    background:url(/_nuxt/img/bg_data@2x.335fa3d.jpg) no-repeat 50%/cover;
+                    background:url(/taxcare/_nuxt/img/bg_data@2x.335fa3d.jpg) no-repeat 50%/cover;
                     min-width: 1200px;
                     overflow: hidden
                 }
@@ -11394,7 +11394,7 @@
 
             @media screen and (max-width: 900px) {
                 .data-line[data-v-4c848211] {
-                    background:url(/_nuxt/img/m_bg_data@2x.030470b.jpg) no-repeat top;
+                    background:url(/taxcare/_nuxt/img/m_bg_data@2x.030470b.jpg) no-repeat top;
                     background-color: #010101;
                     background-size: 100vw 48vw
                 }
@@ -12493,7 +12493,7 @@
                 }
 
                 .advantage-left .quotation[data-v-f4b87756] {
-                    background: url(/_nuxt/img/quotation@2x.9104ccc.png) no-repeat 50%/cover;
+                    background: url(/taxcare/_nuxt/img/quotation@2x.9104ccc.png) no-repeat 50%/cover;
                     height: 42px;
                     margin-bottom: 48px;
                     width: 50px
@@ -12572,7 +12572,7 @@
                 }
 
                 .left-img[data-v-f4b87756] {
-                    background: url(/_nuxt/img/line_code@2x.d7dbcea.png) no-repeat 50%/cover;
+                    background: url(/taxcare/_nuxt/img/line_code@2x.d7dbcea.png) no-repeat 50%/cover;
                     height: 360px;
                     margin-top: 5px;
                     width: 22px
@@ -12623,7 +12623,7 @@
                 }
 
                 .quotation[data-v-f4b87756] {
-                    background: url(/_nuxt/img/m_quotation.85f1913.png) no-repeat 50%/cover;
+                    background: url(/taxcare/_nuxt/img/m_quotation.85f1913.png) no-repeat 50%/cover;
                     height: 7.0666666667vw;
                     margin: 0 auto 8vw;
                     width: 8.5333333333vw
@@ -12643,7 +12643,7 @@
                 }
 
                 .left-img[data-v-f4b87756] {
-                    background: url(/_nuxt/img/m_line_code@2x.ad504a9.png) no-repeat 50%/cover;
+                    background: url(/taxcare/_nuxt/img/m_line_code@2x.ad504a9.png) no-repeat 50%/cover;
                     height: 118.6666666667vw;
                     width: 2.9333333333vw
                 }
@@ -12690,7 +12690,7 @@
                 }
 
                 .uikits-code[data-v-8cad2dd2] {
-                    background: url(/_nuxt/img/img_uikit_bgblack@2x.99f7e06.jpg) no-repeat 50%/cover;
+                    background: url(/taxcare/_nuxt/img/img_uikit_bgblack@2x.99f7e06.jpg) no-repeat 50%/cover;
                     min-width: 1200px;
                     padding: 84px 0 72px
                 }
@@ -12919,7 +12919,7 @@
 
             @media screen and (max-width: 900px) {
                 .uikits-code[data-v-8cad2dd2] {
-                    background:url(/_nuxt/img/m_bg_code@2x.b434614.jpg) no-repeat 50%/cover
+                    background:url(/taxcare/_nuxt/img/m_bg_code@2x.b434614.jpg) no-repeat 50%/cover
                 }
 
                 .container[data-v-8cad2dd2] {
@@ -13917,7 +13917,7 @@
                 }
 
                 .content .icon-left[data-v-1e00c779] {
-                    background: url(/_nuxt/img/quotation@2x.9104ccc.png) no-repeat 50%/cover;
+                    background: url(/taxcare/_nuxt/img/quotation@2x.9104ccc.png) no-repeat 50%/cover;
                     height: 36px;
                     left: 90px;
                     position: absolute;
@@ -13959,7 +13959,7 @@
                 }
 
                 .icon-left[data-v-1e00c779] {
-                    background: url(/_nuxt/img/quotation@2x.9104ccc.png) no-repeat 50%/cover;
+                    background: url(/taxcare/_nuxt/img/quotation@2x.9104ccc.png) no-repeat 50%/cover;
                     left: 8vw;
                     top: 10.6666666667vw
                 }
@@ -14167,7 +14167,7 @@
                 }
 
                 .know-data[data-v-c7f5f0e6] {
-                    background: url(/_nuxt/img/img_security_bg@2x.3fa809f.jpg) no-repeat 50%/cover;
+                    background: url(/taxcare/_nuxt/img/img_security_bg@2x.3fa809f.jpg) no-repeat 50%/cover;
                     border-radius: 24px;
                     padding: 70px 190px
                 }
@@ -14196,7 +14196,7 @@
                 }
 
                 .know-data .data-bg[data-v-c7f5f0e6] {
-                    background: url(/_nuxt/img/img_iso@2x.0361306.png) no-repeat 50%/cover;
+                    background: url(/taxcare/_nuxt/img/img_iso@2x.0361306.png) no-repeat 50%/cover;
                     height: 96px;
                     margin: 0 auto;
                     width: 566px
@@ -14281,7 +14281,7 @@
                 }
 
                 .know-data[data-v-c7f5f0e6]:after {
-                    background: url(/_nuxt/img/top.0848bf4.png) no-repeat 50%/cover;
+                    background: url(/taxcare/_nuxt/img/top.0848bf4.png) no-repeat 50%/cover;
                     height: 32.5333333333vw;
                     right: 0;
                     top: 0;
@@ -14289,7 +14289,7 @@
                 }
 
                 .know-data[data-v-c7f5f0e6]:before {
-                    background: url(/_nuxt/img/bottom.014d165.png) no-repeat 50%/cover;
+                    background: url(/taxcare/_nuxt/img/bottom.014d165.png) no-repeat 50%/cover;
                     bottom: 0;
                     height: 33.3333333333vw;
                     left: 0;
@@ -14321,7 +14321,7 @@
                 }
 
                 .know-data .data-bg[data-v-c7f5f0e6] {
-                    background: url(/_nuxt/img/m_img_iso@2x.f35facf.png) no-repeat 50%/cover;
+                    background: url(/taxcare/_nuxt/img/m_img_iso@2x.f35facf.png) no-repeat 50%/cover;
                     height: 53.0666666667vw;
                     margin: 0 auto;
                     width: 59.7333333333vw
@@ -14551,7 +14551,7 @@
 
             @media screen and (min-width: 901px) {
                 .select-support[data-v-52ef33dc] {
-                    background:url(/_nuxt/img/img_footer_bg@2x.5c0132b.jpg) no-repeat top/cover;
+                    background:url(/taxcare/_nuxt/img/img_footer_bg@2x.5c0132b.jpg) no-repeat top/cover;
                     min-width: 1200px
                 }
 
@@ -14594,7 +14594,7 @@
                 }
 
                 .btn[data-v-52ef33dc] {
-                    background: url(/_nuxt/img/pc_bg@2x.828a884.png) no-repeat 50%/cover;
+                    background: url(/taxcare/_nuxt/img/pc_bg@2x.828a884.png) no-repeat 50%/cover;
                     color: #fff;
                     cursor: pointer;
                     font-family: Poppins-Medium,Poppins;
@@ -14616,7 +14616,7 @@
 
             @media screen and (max-width: 900px) {
                 .select-support[data-v-52ef33dc] {
-                    background:url(/_nuxt/img/m_bg_nextstep@2x.76415d9.jpg) no-repeat 50%/cover;
+                    background:url(/taxcare/_nuxt/img/m_bg_nextstep@2x.76415d9.jpg) no-repeat 50%/cover;
                     padding: 10.6666666667vw 0 16vw
                 }
 
@@ -14659,7 +14659,7 @@
                 }
 
                 .btn[data-v-52ef33dc] {
-                    background: url(/_nuxt/img/bg@2x.5cc551a.png) no-repeat 50%/cover;
+                    background: url(/taxcare/_nuxt/img/bg@2x.5cc551a.png) no-repeat 50%/cover;
                     color: #fff;
                     font-family: Poppins-Medium,Poppins;
                     font-size: 4.2666666667vw;
@@ -14927,7 +14927,7 @@
             }
 
             .left-info .talk-us-about .item[data-v-775d2989] {
-                background: url(/_nuxt/img/sprites.f46be02.png) no-repeat;
+                background: url(/taxcare/_nuxt/img/sprites.f46be02.png) no-repeat;
                 background-size: 192px auto;
                 cursor: pointer;
                 display: block;

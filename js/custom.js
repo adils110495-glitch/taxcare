@@ -180,4 +180,86 @@ $(document).ready(function() {
         $('.footer-container .footer-menu-list .list-wrapper').show();
         $('.footer-container .footer-menu-list .m-list-wrapper').hide();
     }
+    
+    // Code tabs functionality for product/itr-filing page
+    $('.code-main .platform-item').on('click', function() {
+        var $clickedTab = $(this);
+        var $codeMain = $clickedTab.closest('.code-main');
+        var $codeCon = $codeMain.find('.code-con');
+        var $codeItems = $codeCon.find('.code-item');
+        var tabIndex = $clickedTab.index();
+        
+        // Remove active class from all tabs
+        $codeMain.find('.platform-item').removeClass('active');
+        
+        // Add active class to clicked tab
+        $clickedTab.addClass('active');
+        
+        // Hide all code items
+        $codeItems.hide();
+        
+        // Show the corresponding code item
+        $codeItems.eq(tabIndex).show();
+        
+        // Update navigation arrows state
+        updateNavigationArrows($codeMain, tabIndex, $codeItems.length);
+    });
+    
+    // Navigation arrows functionality
+    $('.code-main .platform-nav-pre').on('click', function() {
+        var $codeMain = $(this).closest('.code-main');
+        var $activeTab = $codeMain.find('.platform-item.active');
+        var currentIndex = $activeTab.index();
+        
+        if (currentIndex > 0) {
+            var $prevTab = $activeTab.prev('.platform-item');
+            $prevTab.trigger('click');
+        }
+    });
+    
+    $('.code-main .platform-nav-next').on('click', function() {
+        var $codeMain = $(this).closest('.code-main');
+        var $activeTab = $codeMain.find('.platform-item.active');
+        var currentIndex = $activeTab.index();
+        var $allTabs = $codeMain.find('.platform-item');
+        
+        if (currentIndex < $allTabs.length - 1) {
+            var $nextTab = $activeTab.next('.platform-item');
+            $nextTab.trigger('click');
+        }
+    });
+    
+    // Function to update navigation arrows state
+    function updateNavigationArrows($codeMain, currentIndex, totalItems) {
+        var $prevArrow = $codeMain.find('.platform-nav-pre');
+        var $nextArrow = $codeMain.find('.platform-nav-next');
+        
+        // Update previous arrow
+        if (currentIndex === 0) {
+            $prevArrow.addClass('disabled');
+        } else {
+            $prevArrow.removeClass('disabled');
+        }
+        
+        // Update next arrow
+        if (currentIndex === totalItems - 1) {
+            $nextArrow.addClass('disabled');
+        } else {
+            $nextArrow.removeClass('disabled');
+        }
+    }
+    
+    // Initialize code tabs on page load
+    $('.code-main').each(function() {
+        var $codeMain = $(this);
+        var $codeItems = $codeMain.find('.code-item');
+        var totalItems = $codeItems.length;
+        
+        // Show only the first code item by default
+        $codeItems.hide();
+        $codeItems.first().show();
+        
+        // Initialize navigation arrows
+        updateNavigationArrows($codeMain, 0, totalItems);
+    });
 });

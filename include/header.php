@@ -29,6 +29,15 @@ $css_file_path = THEME_PATH . "css/" . $filename . ".css";
 
 // Define URL path for browser
 $css_file_url  = THEME_URL . "css/" . $filename . ".css";
+
+$path = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
+$segments = explode('/', rtrim($path, '/'));
+$slug = end($segments);
+
+// Optionally format it (replace dashes/underscores with spaces, capitalize, etc.)
+$slugFormatted = ucwords(str_replace(['-', '_'], ' ', $slug));
+?>
+
 ?>
 
 <!doctype html>
@@ -50,7 +59,7 @@ $css_file_url  = THEME_URL . "css/" . $filename . ".css";
     content="Integrate our scable APIs for enhanced app communication, covering video conferencing, live streaming, and customer engagement." />
   <meta data-n-head="ssr" data-hid="keywords" name="keywords"
     content="video api, chat api, video conferencing api, voice api, live streaming sdk" />
-  <title>Voice, Video & Chat ____ for Real-Time Interaction | _________ </title>
+  <title><?= $slugFormatted?> | Taxcare </title>
   <link data-n-head="ssr" rel="icon" type="image/x-icon" href="https://taxcare.co.in/img/favicon.ico" />
   <link data-n-head="ssr" rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72-precomposed.png" />
   <link data-n-head="ssr" rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57-precomposed.png" />
@@ -66,7 +75,7 @@ $css_file_url  = THEME_URL . "css/" . $filename . ".css";
   <link rel="stylesheet" href="<?php echo THEME_URL ?>css/taxcare.css">
   <link rel="stylesheet" href="<?php echo THEME_URL ?>css/index.css">
   <?php if (file_exists($css_file_path)): ?>
-    <link rel="stylesheet" href="<?php echo $css_file_url ?>">
+    <link rel="stylesheet" href="<?php echo $css_file_url ?>?ver=<?= time() ?>">
   <?php endif; ?>
   <link rel="stylesheet" href="<?php echo THEME_URL ?>css/override.css?ver=<?= time() ?>">
 
@@ -163,7 +172,7 @@ $css_file_url  = THEME_URL . "css/" . $filename . ".css";
                           </div>
                         </div>
                         <div class="menu-right" data-v-6ccd7fd0="">
-                          <div class="right-img" data-v-6ccd7fd0=""><img src="_nuxt/img/nav_pic_solution@2x.478f936.jpg"
+                          <div class="right-img" data-v-6ccd7fd0=""><img src="<?= THEME_URL?>_nuxt/img/nav_pic_solution@2x.478f936.jpg"
                               alt="zegocloud" loading="lazy" data-v-6ccd7fd0="" /></div>
                           <p class="right-title" data-v-6ccd7fd0="">Case Studies </p>
                           <p class="right-details" data-v-6ccd7fd0="">
@@ -183,7 +192,7 @@ $css_file_url  = THEME_URL . "css/" . $filename . ".css";
                       data-v-11d3814f=""><!----> <!---->
                       <div id="developers-menu" class="developers-menu" data-v-cdbbeaee="" data-v-11d3814f="">
                         <div class="left" data-v-cdbbeaee="">
-                          <div class="left-img" data-v-cdbbeaee=""><img src="_nuxt/img/nav_pic_developer@2x.585836b.jpg"
+                          <div class="left-img" data-v-cdbbeaee=""><img src="<?= THEME_URL?>_nuxt/img/nav_pic_developer@2x.585836b.jpg"
                               alt="zegocloud" loading="lazy" data-v-cdbbeaee="" /></div>
                           <div class="left-title" data-v-cdbbeaee=""><span data-v-cdbbeaee="">Developer Hub </span>
                           </div>
@@ -243,7 +252,7 @@ $css_file_url  = THEME_URL . "css/" . $filename . ".css";
                       data-v-11d3814f=""><!----> <!---->
                       <div id="developers-menu" class="developers-menu" data-v-cdbbeaee="" data-v-11d3814f="">
                         <div class="left" data-v-cdbbeaee="">
-                          <div class="left-img" data-v-cdbbeaee=""><img src="_nuxt/img/nav_pic_developer@2x.585836b.jpg"
+                          <div class="left-img" data-v-cdbbeaee=""><img src="<?= THEME_URL?>_nuxt/img/nav_pic_developer@2x.585836b.jpg"
                               alt="zegocloud" loading="lazy" data-v-cdbbeaee="" /></div>
                           <div class="left-title" data-v-cdbbeaee=""><span data-v-cdbbeaee="">Developer Hub </span>
                           </div>
