@@ -49,10 +49,9 @@
                     <div id="right-plans-desc" class="plans-desc" data-v-ee36c2d2="">
                       Easier and faster with UIKits
                     </div>
-                    <div id="right-feature-detail" class="feature-detail" data-v-ee36c2d2="">
-                      Accelerate app ________ with pre-built UIKits and __ Components - pre-designed UI ______ enabling
-                      rapid
-                      app ___________ without starting from scratch.
+                    <div id="right-feature-detail" class="feature-detail" data-v-ee36c2d2="">  
+                        Simplify complex trading taxes with ready-to-use
+                        solutions â€” from intraday to F&O, all in one place.
                     </div>
                     <div id="right-feature-list" class="feature-list" data-v-ee36c2d2="">
                       <div class="item" data-v-ee36c2d2="">
